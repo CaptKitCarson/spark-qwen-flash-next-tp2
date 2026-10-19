@@ -1,0 +1,4339 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="1152pt" height="1086.48pt" viewBox="0 0 1152 1086.48" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-10-19T01:57:47.317636</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.2, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 1086.48
+L 1152 1086.48
+L 1152 0
+L 0 0
+z
+" style="fill: #10171c"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 34.56 169.2
+L 1117.44 169.2
+L 1117.44 436.32
+L 34.56 436.32
+z
+" clip-path="url(#pbc166b3140)" style="fill: #151f25; stroke: #28513c; stroke-width: 1.1; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 34.56 533.52
+L 1117.44 533.52
+L 1117.44 724.32
+L 34.56 724.32
+z
+" clip-path="url(#pbc166b3140)" style="fill: #151f25; stroke: #28513c; stroke-width: 1.1; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 34.56 825.12
+L 1117.44 825.12
+L 1117.44 939.6
+L 34.56 939.6
+z
+" clip-path="url(#pbc166b3140)" style="fill: #151f25; stroke: #28513c; stroke-width: 1.1; stroke-linejoin: miter"/>
+   </g>
+   <g id="line2d_1">
+    <path d="M 34.56 117.36
+L 1117.44 117.36
+" clip-path="url(#pbc166b3140)" style="fill: none; stroke: #2dff86; stroke-width: 1.2; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_2">
+    <path d="M 380.16 169.2
+L 380.16 436.32
+" clip-path="url(#pbc166b3140)" style="fill: none; stroke: #28513c; stroke-width: 0.8; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_3">
+    <path d="M 560.16 169.2
+L 560.16 436.32
+" clip-path="url(#pbc166b3140)" style="fill: none; stroke: #28513c; stroke-width: 0.8; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_4">
+    <path d="M 740.16 169.2
+L 740.16 436.32
+" clip-path="url(#pbc166b3140)" style="fill: none; stroke: #28513c; stroke-width: 0.8; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_5">
+    <path d="M 934.56 169.2
+L 934.56 436.32
+" clip-path="url(#pbc166b3140)" style="fill: none; stroke: #28513c; stroke-width: 0.8; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_6">
+    <path d="M 34.56 207.36
+L 1117.44 207.36
+" clip-path="url(#pbc166b3140)" style="fill: none; stroke: #28513c; stroke-width: 0.55; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_7">
+    <path d="M 34.56 245.52
+L 1117.44 245.52
+" clip-path="url(#pbc166b3140)" style="fill: none; stroke: #28513c; stroke-width: 0.55; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_8">
+    <path d="M 34.56 283.68
+L 1117.44 283.68
+" clip-path="url(#pbc166b3140)" style="fill: none; stroke: #28513c; stroke-width: 0.55; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_9">
+    <path d="M 34.56 321.84
+L 1117.44 321.84
+" clip-path="url(#pbc166b3140)" style="fill: none; stroke: #28513c; stroke-width: 0.55; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_10">
+    <path d="M 34.56 360
+L 1117.44 360
+" clip-path="url(#pbc166b3140)" style="fill: none; stroke: #28513c; stroke-width: 0.55; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_11">
+    <path d="M 34.56 398.16
+L 1117.44 398.16
+" clip-path="url(#pbc166b3140)" style="fill: none; stroke: #28513c; stroke-width: 0.55; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_12">
+    <path d="M 380.16 533.52
+L 380.16 724.32
+" clip-path="url(#pbc166b3140)" style="fill: none; stroke: #28513c; stroke-width: 0.8; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_13">
+    <path d="M 560.16 533.52
+L 560.16 724.32
+" clip-path="url(#pbc166b3140)" style="fill: none; stroke: #28513c; stroke-width: 0.8; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_14">
+    <path d="M 740.16 533.52
+L 740.16 724.32
+" clip-path="url(#pbc166b3140)" style="fill: none; stroke: #28513c; stroke-width: 0.8; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_15">
+    <path d="M 934.56 533.52
+L 934.56 724.32
+" clip-path="url(#pbc166b3140)" style="fill: none; stroke: #28513c; stroke-width: 0.8; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_16">
+    <path d="M 34.56 571.68
+L 1117.44 571.68
+" clip-path="url(#pbc166b3140)" style="fill: none; stroke: #28513c; stroke-width: 0.55; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_17">
+    <path d="M 34.56 609.84
+L 1117.44 609.84
+" clip-path="url(#pbc166b3140)" style="fill: none; stroke: #28513c; stroke-width: 0.55; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_18">
+    <path d="M 34.56 648
+L 1117.44 648
+" clip-path="url(#pbc166b3140)" style="fill: none; stroke: #28513c; stroke-width: 0.55; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_19">
+    <path d="M 34.56 686.16
+L 1117.44 686.16
+" clip-path="url(#pbc166b3140)" style="fill: none; stroke: #28513c; stroke-width: 0.55; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_20">
+    <path d="M 380.16 825.12
+L 380.16 939.6
+" clip-path="url(#pbc166b3140)" style="fill: none; stroke: #28513c; stroke-width: 0.8; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_21">
+    <path d="M 560.16 825.12
+L 560.16 939.6
+" clip-path="url(#pbc166b3140)" style="fill: none; stroke: #28513c; stroke-width: 0.8; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_22">
+    <path d="M 740.16 825.12
+L 740.16 939.6
+" clip-path="url(#pbc166b3140)" style="fill: none; stroke: #28513c; stroke-width: 0.8; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_23">
+    <path d="M 934.56 825.12
+L 934.56 939.6
+" clip-path="url(#pbc166b3140)" style="fill: none; stroke: #28513c; stroke-width: 0.8; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_24">
+    <path d="M 34.56 863.28
+L 1117.44 863.28
+" clip-path="url(#pbc166b3140)" style="fill: none; stroke: #28513c; stroke-width: 0.55; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_25">
+    <path d="M 34.56 901.44
+L 1117.44 901.44
+" clip-path="url(#pbc166b3140)" style="fill: none; stroke: #28513c; stroke-width: 0.55; stroke-linecap: square"/>
+   </g>
+   <g id="text_1">
+    <!-- LOCAL INFERENCE LAB  //  FIELD REPORT -->
+    <g style="fill: #9cabb3" transform="translate(34.56 34.400156) scale(0.12 -0.12)">
+     <defs>
+      <path id="CascadiaMono-Roman-62" d="M 500 0
+L 500 4438
+L 1125 4438
+L 1125 0
+L 500 0
+z
+M 500 0
+L 500 594
+L 3438 594
+L 3438 0
+L 500 0
+z
+" transform="scale(0.015625)"/>
+      <path id="CascadiaMono-Roman-75" d="M 1875 -63
+Q 238 -63 238 2188
+Q 238 4500 1875 4500
+Q 3513 4500 3513 2188
+Q 3513 -63 1875 -63
+z
+M 1875 513
+Q 2856 513 2856 2188
+Q 2856 3925 1875 3925
+Q 894 3925 894 2188
+Q 894 513 1875 513
+z
+" transform="scale(0.015625)"/>
+      <path id="CascadiaMono-Roman-1e" d="M 2338 -63
+Q 269 -63 269 2225
+Q 269 3309 791 3904
+Q 1313 4500 2263 4500
+Q 2722 4500 3062 4354
+Q 3403 4209 3559 3941
+L 3097 3481
+Q 2956 3694 2739 3809
+Q 2522 3925 2269 3925
+Q 1666 3925 1302 3490
+Q 938 3056 938 2256
+Q 938 513 2444 513
+Q 2897 513 3338 700
+L 3481 150
+Q 2938 -63 2338 -63
+z
+" transform="scale(0.015625)"/>
+      <path id="CascadiaMono-Roman-1" d="M 141 0
+L 1422 4438
+L 2328 4438
+L 3609 0
+L 2953 0
+L 1903 3900
+L 1847 3900
+L 797 0
+L 141 0
+z
+M 734 1081
+L 734 1675
+L 2984 1675
+L 2984 1081
+L 734 1081
+z
+" transform="scale(0.015625)"/>
+      <path id="CascadiaMono-Roman-35d" transform="scale(0.015625)"/>
+      <path id="CascadiaMono-Roman-4c" d="M 1559 0
+L 1559 4438
+L 2184 4438
+L 2184 0
+L 1559 0
+z
+M 525 0
+L 525 594
+L 3225 594
+L 3225 0
+L 525 0
+z
+M 525 3844
+L 525 4438
+L 3225 4438
+L 3225 3844
+L 525 3844
+z
+" transform="scale(0.015625)"/>
+      <path id="CascadiaMono-Roman-6d" d="M 2500 0
+L 1125 3375
+L 838 3375
+L 838 4438
+L 1250 4438
+L 2625 1063
+L 2781 1063
+L 2781 0
+L 2500 0
+z
+M 463 0
+L 463 4438
+L 1063 4438
+L 1063 0
+L 463 0
+z
+M 2688 0
+L 2688 4438
+L 3288 4438
+L 3288 0
+L 2688 0
+z
+" transform="scale(0.015625)"/>
+      <path id="CascadiaMono-Roman-3f" d="M 563 0
+L 563 4438
+L 1188 4438
+L 1188 0
+L 563 0
+z
+M 563 1738
+L 563 2331
+L 2938 2331
+L 2938 1738
+L 563 1738
+z
+M 563 3844
+L 563 4438
+L 3500 4438
+L 3500 3844
+L 563 3844
+z
+" transform="scale(0.015625)"/>
+      <path id="CascadiaMono-Roman-29" d="M 500 0
+L 500 4438
+L 1125 4438
+L 1125 0
+L 500 0
+z
+M 500 0
+L 500 594
+L 3438 594
+L 3438 0
+L 500 0
+z
+M 500 1925
+L 500 2519
+L 2875 2519
+L 2875 1925
+L 500 1925
+z
+M 500 3844
+L 500 4438
+L 3438 4438
+L 3438 3844
+L 500 3844
+z
+" transform="scale(0.015625)"/>
+      <path id="CascadiaMono-Roman-95" d="M 1019 1688
+L 1019 2281
+L 1963 2281
+Q 2334 2281 2542 2478
+Q 2750 2675 2750 3031
+Q 2750 3422 2542 3633
+Q 2334 3844 1963 3844
+L 1031 3844
+L 956 4438
+L 1963 4438
+Q 2653 4438 3029 4088
+Q 3406 3738 3406 3094
+Q 3406 2425 3029 2056
+Q 2653 1688 1963 1688
+L 1019 1688
+z
+M 438 0
+L 438 4438
+L 1063 4438
+L 1063 0
+L 438 0
+z
+M 2819 0
+L 1825 2088
+L 2513 2088
+L 3569 0
+L 2819 0
+z
+" transform="scale(0.015625)"/>
+      <path id="CascadiaMono-Roman-1d" d="M 1081 0
+L 1081 594
+L 2019 594
+Q 2431 594 2659 783
+Q 2888 972 2888 1313
+Q 2888 1663 2650 1855
+Q 2413 2047 1975 2047
+L 1094 2047
+L 1019 2331
+L 2131 2331
+Q 2806 2331 3175 2040
+Q 3544 1750 3544 1219
+Q 3544 638 3194 319
+Q 2844 0 2200 0
+L 1081 0
+z
+M 500 0
+L 500 4438
+L 1125 4438
+L 1125 0
+L 500 0
+z
+M 869 2181
+L 869 2488
+L 2169 2488
+L 2169 2181
+L 869 2181
+z
+M 1081 2356
+L 1081 2641
+L 1831 2641
+Q 2184 2641 2379 2798
+Q 2575 2956 2575 3250
+Q 2575 3538 2370 3691
+Q 2166 3844 1788 3844
+L 1094 3844
+L 1019 4438
+L 1819 4438
+Q 2494 4438 2862 4145
+Q 3231 3853 3231 3313
+Q 3231 2853 2881 2604
+Q 2531 2356 1888 2356
+L 1081 2356
+z
+" transform="scale(0.015625)"/>
+      <path id="CascadiaMono-Roman-2ee" d="M 356 -594
+L 2869 5031
+L 3531 5031
+L 1019 -594
+L 356 -594
+z
+" transform="scale(0.015625)"/>
+      <path id="CascadiaMono-Roman-25" d="M 1019 0
+L 1019 594
+L 1513 594
+Q 2197 594 2542 984
+Q 2888 1375 2888 2156
+Q 2888 3003 2542 3423
+Q 2197 3844 1513 3844
+L 1031 3844
+L 956 4438
+L 1513 4438
+Q 3544 4438 3544 2156
+Q 3544 0 1513 0
+L 1019 0
+z
+M 438 0
+L 438 4438
+L 1063 4438
+L 1063 0
+L 438 0
+z
+" transform="scale(0.015625)"/>
+      <path id="CascadiaMono-Roman-92" d="M 1050 1375
+L 1050 1969
+L 1806 1969
+Q 2319 1969 2581 2223
+Q 2844 2478 2844 2969
+Q 2844 3400 2581 3622
+Q 2319 3844 1806 3844
+L 1063 3844
+L 1063 4438
+L 1806 4438
+Q 2641 4438 3070 4066
+Q 3500 3694 3500 2969
+Q 3500 2184 3070 1779
+Q 2641 1375 1806 1375
+L 1050 1375
+z
+M 500 0
+L 500 4438
+L 1125 4438
+L 1125 0
+L 500 0
+z
+" transform="scale(0.015625)"/>
+      <path id="CascadiaMono-Roman-a3" d="M 1563 0
+L 1563 4438
+L 2188 4438
+L 2188 0
+L 1563 0
+z
+M 250 3844
+L 250 4438
+L 3500 4438
+L 3500 3844
+L 250 3844
+z
+" transform="scale(0.015625)"/>
+     </defs>
+     <use xlink:href="#CascadiaMono-Roman-62"/>
+     <use xlink:href="#CascadiaMono-Roman-75" transform="translate(58.59375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-1e" transform="translate(117.1875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-1" transform="translate(175.78125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-62" transform="translate(234.375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-35d" transform="translate(292.96875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-4c" transform="translate(351.5625 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-6d" transform="translate(410.15625 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-3f" transform="translate(468.75 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-29" transform="translate(527.34375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-95" transform="translate(585.9375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-29" transform="translate(644.53125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-6d" transform="translate(703.125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-1e" transform="translate(761.71875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-29" transform="translate(820.3125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-35d" transform="translate(878.90625 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-62" transform="translate(937.5 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-1" transform="translate(996.09375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-1d" transform="translate(1054.6875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-35d" transform="translate(1113.28125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-35d" transform="translate(1171.875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-2ee" transform="translate(1230.46875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-2ee" transform="translate(1289.0625 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-35d" transform="translate(1347.65625 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-35d" transform="translate(1406.25 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-3f" transform="translate(1464.84375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-4c" transform="translate(1523.4375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-29" transform="translate(1582.03125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-62" transform="translate(1640.625 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-25" transform="translate(1699.21875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-35d" transform="translate(1757.8125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-95" transform="translate(1816.40625 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-29" transform="translate(1875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-92" transform="translate(1933.59375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-75" transform="translate(1992.1875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-95" transform="translate(2050.78125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-a3" transform="translate(2109.375 0)"/>
+    </g>
+   </g>
+   <g id="text_2">
+    <!-- QWEN FLASH NEXT / TWO SPARKS -->
+    <g style="fill: #2dff86" transform="translate(34.56 73.107109) scale(0.29 -0.29)">
+     <defs>
+      <path id="OCRAExtended-34" d="M 1063 3003
+L 2181 3969
+Q 2406 4153 2644 4153
+Q 2906 4153 3098 3962
+Q 3291 3772 3291 3553
+L 3291 1947
+Q 3291 1491 2900 1159
+L 2547 856
+L 2681 525
+L 3034 525
+Q 3144 525 3220 448
+Q 3297 372 3297 263
+Q 3297 153 3220 76
+Q 3144 0 3034 0
+L 2316 0
+L 2125 494
+L 1766 197
+Q 1528 0 1288 0
+Q 1013 0 827 189
+Q 641 378 641 647
+L 641 2113
+Q 641 2388 725 2586
+Q 809 2784 1063 3003
+z
+M 2528 3584
+L 1409 2619
+Q 1263 2491 1214 2375
+Q 1166 2259 1166 2047
+L 1166 678
+Q 1166 516 1291 516
+Q 1341 516 1388 556
+L 1919 1013
+L 1747 1472
+Q 1709 1563 1709 1628
+Q 1709 1725 1787 1801
+Q 1866 1878 1972 1878
+Q 2156 1878 2216 1728
+L 2350 1375
+Q 2578 1553 2668 1670
+Q 2759 1788 2759 1947
+L 2759 3494
+Q 2759 3625 2641 3625
+Q 2575 3625 2528 3584
+z
+" transform="scale(0.015625)"/>
+      <path id="OCRAExtended-3a" d="M 2234 2528
+L 2234 781
+L 2388 525
+L 2606 525
+L 2766 788
+L 2766 3884
+Q 2766 3994 2845 4073
+Q 2925 4153 3034 4153
+Q 3141 4153 3219 4075
+Q 3297 3997 3297 3891
+L 3297 703
+Q 3297 644 3231 538
+L 2988 134
+Q 2913 0 2759 0
+L 2266 0
+Q 2031 0 1966 213
+Q 1894 0 1678 0
+L 1216 0
+Q 1016 0 928 147
+L 703 525
+Q 641 628 641 703
+L 641 3884
+Q 641 3994 720 4073
+Q 800 4153 909 4153
+Q 1013 4153 1089 4073
+Q 1166 3994 1166 3884
+L 1166 775
+L 1319 525
+L 1544 525
+L 1709 788
+L 1709 2528
+Q 1709 2638 1786 2714
+Q 1863 2791 1972 2791
+Q 2081 2791 2157 2714
+Q 2234 2638 2234 2528
+z
+" transform="scale(0.015625)"/>
+      <path id="OCRAExtended-28" d="M 3028 3622
+L 1172 3622
+L 1172 2344
+L 1972 2344
+Q 2078 2344 2156 2266
+Q 2234 2188 2234 2081
+Q 2234 1969 2157 1891
+Q 2081 1813 1972 1813
+L 1172 1813
+L 1172 525
+L 3034 525
+Q 3141 525 3219 448
+Q 3297 372 3297 263
+Q 3297 153 3217 76
+Q 3138 0 3028 0
+L 647 0
+L 647 4153
+L 3028 4153
+Q 3138 4153 3217 4073
+Q 3297 3994 3297 3884
+Q 3297 3778 3217 3700
+Q 3138 3622 3028 3622
+z
+" transform="scale(0.015625)"/>
+      <path id="OCRAExtended-31" d="M 3291 3884
+L 3291 0
+L 2584 0
+L 1172 3225
+L 1172 263
+Q 1172 153 1095 76
+Q 1019 0 909 0
+Q 800 0 723 76
+Q 647 153 647 263
+L 647 4153
+L 1344 4153
+L 2759 934
+L 2759 3884
+Q 2759 3994 2839 4073
+Q 2919 4153 3028 4153
+Q 3138 4153 3214 4075
+Q 3291 3997 3291 3884
+z
+" transform="scale(0.015625)"/>
+      <path id="OCRAExtended-3" transform="scale(0.015625)"/>
+      <path id="OCRAExtended-29" d="M 647 263
+L 647 4153
+L 3028 4153
+Q 3131 4153 3211 4075
+Q 3291 3997 3291 3891
+Q 3291 3781 3212 3701
+Q 3134 3622 3028 3622
+L 1172 3622
+L 1172 2797
+L 2503 2797
+Q 2613 2797 2689 2720
+Q 2766 2644 2766 2534
+Q 2766 2425 2689 2348
+Q 2613 2272 2503 2272
+L 1172 2272
+L 1172 263
+Q 1172 153 1095 76
+Q 1019 0 909 0
+Q 800 0 723 76
+Q 647 153 647 263
+z
+" transform="scale(0.015625)"/>
+      <path id="OCRAExtended-2f" d="M 647 0
+L 647 3891
+Q 647 3997 725 4075
+Q 803 4153 909 4153
+Q 1016 4153 1094 4075
+Q 1172 3997 1172 3891
+L 1172 525
+L 3028 525
+Q 3138 525 3217 448
+Q 3297 372 3297 263
+Q 3297 153 3217 76
+Q 3138 0 3028 0
+L 647 0
+z
+" transform="scale(0.015625)"/>
+      <path id="OCRAExtended-24" d="M 663 366
+L 1725 3956
+Q 1788 4153 1988 4153
+Q 2181 4153 2231 3988
+L 3278 341
+Q 3291 300 3291 263
+Q 3291 153 3216 76
+Q 3141 0 3044 0
+Q 2838 0 2781 191
+L 2569 903
+L 1372 903
+L 1141 141
+Q 1131 91 1062 45
+Q 994 0 913 0
+Q 797 0 722 78
+Q 647 156 647 269
+Q 647 316 663 366
+z
+M 1981 2938
+L 1531 1434
+L 2416 1434
+L 1981 2938
+z
+" transform="scale(0.015625)"/>
+      <path id="OCRAExtended-36" d="M 1241 4153
+L 2606 4153
+Q 2856 4153 3079 3942
+Q 3303 3731 3303 3431
+Q 3303 3319 3223 3241
+Q 3144 3163 3047 3163
+Q 2913 3163 2863 3223
+Q 2813 3284 2767 3450
+Q 2722 3616 2566 3616
+L 1269 3616
+Q 1175 3616 1175 3556
+Q 1175 3519 1216 3469
+L 3163 978
+Q 3303 797 3303 591
+Q 3303 356 3133 178
+Q 2963 0 2753 0
+L 1338 0
+Q 1056 0 848 214
+Q 641 428 641 684
+Q 641 978 916 978
+Q 1022 978 1097 901
+Q 1172 825 1172 722
+Q 1172 638 1230 581
+Q 1288 525 1375 525
+L 2681 525
+Q 2766 525 2766 591
+Q 2766 622 2725 672
+L 781 3163
+Q 644 3341 644 3550
+Q 644 3794 819 3973
+Q 994 4153 1241 4153
+z
+" transform="scale(0.015625)"/>
+      <path id="OCRAExtended-2b" d="M 634 263
+L 634 3891
+Q 634 3997 711 4075
+Q 788 4153 897 4153
+Q 1003 4153 1081 4075
+Q 1159 3997 1159 3891
+L 1159 2344
+L 2759 2344
+L 2759 3891
+Q 2759 3997 2836 4075
+Q 2913 4153 3022 4153
+Q 3131 4153 3207 4075
+Q 3284 3997 3284 3884
+L 3284 263
+Q 3284 156 3204 78
+Q 3125 0 3022 0
+Q 2909 0 2834 76
+Q 2759 153 2759 263
+L 2759 1819
+L 1166 1819
+L 1166 263
+Q 1166 156 1086 78
+Q 1006 0 897 0
+Q 791 0 712 76
+Q 634 153 634 263
+z
+" transform="scale(0.015625)"/>
+      <path id="OCRAExtended-3b" d="M 2013 1556
+L 1178 128
+Q 1106 3 956 3
+Q 844 3 764 84
+Q 684 166 684 263
+Q 684 338 731 416
+L 1709 2075
+L 750 3725
+Q 694 3822 694 3903
+Q 694 4003 772 4079
+Q 850 4156 953 4156
+Q 1106 4156 1178 4031
+L 2025 2606
+L 2856 4025
+Q 2934 4153 3078 4153
+Q 3188 4153 3269 4078
+Q 3350 4003 3350 3897
+Q 3350 3825 3309 3756
+L 2325 2081
+L 3303 397
+Q 3341 334 3341 263
+Q 3341 150 3264 75
+Q 3188 0 3078 0
+Q 2925 0 2850 128
+L 2013 1556
+z
+" transform="scale(0.015625)"/>
+      <path id="OCRAExtended-37" d="M 641 3438
+L 641 4147
+L 3291 4147
+L 3291 3431
+Q 3291 3322 3212 3245
+Q 3134 3169 3028 3169
+Q 2919 3169 2839 3247
+Q 2759 3325 2759 3431
+L 2759 3622
+L 2228 3622
+L 2228 263
+Q 2228 153 2150 76
+Q 2072 0 1966 0
+Q 1853 0 1775 76
+Q 1697 153 1697 263
+L 1697 3622
+L 1166 3622
+L 1166 3438
+Q 1166 3328 1089 3251
+Q 1013 3175 903 3175
+Q 794 3175 717 3251
+Q 641 3328 641 3438
+z
+" transform="scale(0.015625)"/>
+      <path id="OCRAExtended-12" d="M 3281 3700
+L 1150 78
+Q 1100 -3 991 -3
+Q 888 -3 798 67
+Q 709 138 709 247
+Q 709 344 772 453
+L 2903 4072
+Q 2956 4156 3069 4156
+Q 3169 4156 3258 4089
+Q 3347 4022 3347 3913
+Q 3347 3809 3281 3700
+z
+" transform="scale(0.015625)"/>
+      <path id="OCRAExtended-32" d="M 2591 3769
+L 3169 2591
+Q 3291 2350 3291 2069
+Q 3291 1794 3169 1550
+L 2591 384
+Q 2406 0 1966 0
+Q 1756 0 1589 109
+Q 1422 219 1338 384
+L 756 1550
+Q 641 1778 641 2069
+Q 641 2359 756 2591
+L 1338 3769
+Q 1534 4153 1966 4153
+Q 2403 4153 2591 3769
+z
+M 1791 3506
+L 1247 2400
+Q 1172 2234 1172 2075
+Q 1172 1903 1247 1747
+L 1806 628
+Q 1850 525 1966 525
+Q 2066 525 2119 628
+L 2681 1747
+Q 2759 1913 2759 2075
+Q 2759 2247 2681 2400
+L 2131 3506
+Q 2078 3628 1966 3628
+Q 1853 3628 1791 3506
+z
+" transform="scale(0.015625)"/>
+      <path id="OCRAExtended-33" d="M 647 263
+L 647 4153
+L 2509 4153
+Q 2831 4153 3064 3918
+Q 3297 3684 3297 3359
+L 3297 2375
+Q 3297 2050 3065 1819
+Q 2834 1588 2509 1588
+L 1178 1588
+L 1178 263
+Q 1178 153 1101 76
+Q 1025 0 916 0
+Q 803 0 725 76
+Q 647 153 647 263
+z
+M 1178 2113
+L 2509 2113
+Q 2616 2113 2694 2189
+Q 2772 2266 2772 2375
+L 2772 3359
+Q 2772 3469 2694 3545
+Q 2616 3622 2509 3622
+L 1178 3622
+L 1178 2113
+z
+" transform="scale(0.015625)"/>
+      <path id="OCRAExtended-35" d="M 653 263
+L 653 4153
+L 2509 4153
+Q 2831 4153 3064 3918
+Q 3297 3684 3297 3359
+L 3297 3059
+Q 3297 2731 3065 2498
+Q 2834 2266 2509 2266
+L 2175 2266
+L 3250 422
+Q 3300 341 3300 259
+Q 3300 153 3219 76
+Q 3138 0 3034 0
+Q 2878 0 2797 141
+L 1563 2266
+L 1184 2266
+L 1184 263
+Q 1184 153 1104 76
+Q 1025 0 916 0
+Q 806 0 729 76
+Q 653 153 653 263
+z
+M 1178 2791
+L 2509 2791
+Q 2619 2791 2695 2867
+Q 2772 2944 2772 3053
+L 2772 3359
+Q 2772 3469 2695 3545
+Q 2619 3622 2509 3622
+L 1178 3622
+L 1178 2791
+z
+" transform="scale(0.015625)"/>
+      <path id="OCRAExtended-2e" d="M 641 263
+L 641 3884
+Q 641 3997 717 4075
+Q 794 4153 903 4153
+Q 1013 4153 1089 4076
+Q 1166 4000 1166 3891
+L 1166 2650
+L 2847 4084
+Q 2934 4156 3044 4156
+Q 3153 4156 3228 4075
+Q 3303 3994 3303 3888
+Q 3303 3778 3219 3706
+L 1313 2088
+L 3219 441
+Q 3297 375 3297 272
+Q 3297 169 3220 84
+Q 3144 0 3031 0
+Q 2925 0 2841 72
+L 1166 1516
+L 1166 263
+Q 1166 153 1089 76
+Q 1013 0 903 0
+Q 797 0 719 76
+Q 641 153 641 263
+z
+" transform="scale(0.015625)"/>
+     </defs>
+     <use xlink:href="#OCRAExtended-34"/>
+     <use xlink:href="#OCRAExtended-3a" transform="translate(60.40625 0)"/>
+     <use xlink:href="#OCRAExtended-28" transform="translate(120.8125 0)"/>
+     <use xlink:href="#OCRAExtended-31" transform="translate(181.21875 0)"/>
+     <use xlink:href="#OCRAExtended-3" transform="translate(241.625 0)"/>
+     <use xlink:href="#OCRAExtended-29" transform="translate(302.03125 0)"/>
+     <use xlink:href="#OCRAExtended-2f" transform="translate(362.4375 0)"/>
+     <use xlink:href="#OCRAExtended-24" transform="translate(422.84375 0)"/>
+     <use xlink:href="#OCRAExtended-36" transform="translate(483.25 0)"/>
+     <use xlink:href="#OCRAExtended-2b" transform="translate(543.65625 0)"/>
+     <use xlink:href="#OCRAExtended-3" transform="translate(604.0625 0)"/>
+     <use xlink:href="#OCRAExtended-31" transform="translate(664.46875 0)"/>
+     <use xlink:href="#OCRAExtended-28" transform="translate(724.875 0)"/>
+     <use xlink:href="#OCRAExtended-3b" transform="translate(785.28125 0)"/>
+     <use xlink:href="#OCRAExtended-37" transform="translate(845.6875 0)"/>
+     <use xlink:href="#OCRAExtended-3" transform="translate(906.09375 0)"/>
+     <use xlink:href="#OCRAExtended-12" transform="translate(966.5 0)"/>
+     <use xlink:href="#OCRAExtended-3" transform="translate(1026.90625 0)"/>
+     <use xlink:href="#OCRAExtended-37" transform="translate(1087.3125 0)"/>
+     <use xlink:href="#OCRAExtended-3a" transform="translate(1147.71875 0)"/>
+     <use xlink:href="#OCRAExtended-32" transform="translate(1208.125 0)"/>
+     <use xlink:href="#OCRAExtended-3" transform="translate(1268.53125 0)"/>
+     <use xlink:href="#OCRAExtended-36" transform="translate(1328.9375 0)"/>
+     <use xlink:href="#OCRAExtended-33" transform="translate(1389.34375 0)"/>
+     <use xlink:href="#OCRAExtended-24" transform="translate(1449.75 0)"/>
+     <use xlink:href="#OCRAExtended-35" transform="translate(1510.15625 0)"/>
+     <use xlink:href="#OCRAExtended-2e" transform="translate(1570.5625 0)"/>
+     <use xlink:href="#OCRAExtended-36" transform="translate(1630.96875 0)"/>
+    </g>
+   </g>
+   <g id="text_3">
+    <!-- CSF-QAD  |  TP2  |  262K context capacity  |  medium reasoning -->
+    <g style="fill: #edf3f5" transform="translate(34.56 100.613516) scale(0.14 -0.14)">
+     <defs>
+      <path id="CascadiaMono-Roman-9a" d="M 1722 -63
+Q 1344 -63 1014 -2
+Q 684 59 403 181
+L 484 813
+Q 828 666 1148 589
+Q 1469 513 1772 513
+Q 2209 513 2421 666
+Q 2634 819 2634 1131
+Q 2634 1528 2228 1713
+L 1459 2063
+Q 1006 2269 764 2559
+Q 522 2850 522 3281
+Q 522 3863 872 4181
+Q 1222 4500 1863 4500
+Q 2309 4500 2653 4369
+Q 2997 4238 3316 3941
+L 2878 3497
+Q 2603 3722 2364 3823
+Q 2125 3925 1866 3925
+Q 1544 3925 1367 3770
+Q 1191 3616 1191 3313
+Q 1191 3097 1306 2961
+Q 1422 2825 1647 2719
+L 2297 2413
+Q 2791 2181 3047 1890
+Q 3303 1600 3303 1144
+Q 3303 541 2911 239
+Q 2519 -63 1722 -63
+z
+" transform="scale(0.015625)"/>
+      <path id="CascadiaMono-Roman-2fd" d="M 313 1925
+L 313 2506
+L 3438 2506
+L 3438 1925
+L 313 1925
+z
+" transform="scale(0.015625)"/>
+      <path id="CascadiaMono-Roman-94" d="M 2906 -1438
+Q 2231 -1438 1890 -1094
+Q 1550 -750 1550 -63
+L 1550 194
+L 2169 194
+L 2169 -69
+Q 2169 -472 2353 -673
+Q 2538 -875 2906 -875
+L 3225 -875
+L 3163 -1438
+L 2906 -1438
+z
+M 1875 -63
+Q 238 -63 238 2188
+Q 238 4500 1875 4500
+Q 3513 4500 3513 2188
+Q 3513 -63 1875 -63
+z
+M 1875 513
+Q 2856 513 2856 2188
+Q 2856 3925 1875 3925
+Q 894 3925 894 2188
+Q 894 513 1875 513
+z
+" transform="scale(0.015625)"/>
+      <path id="CascadiaMono-Roman-4f0" d="M 1563 -969
+L 1563 5406
+L 2188 5406
+L 2188 -969
+L 1563 -969
+z
+" transform="scale(0.015625)"/>
+      <path id="CascadiaMono-Roman-2a5" d="M 475 0
+L 475 700
+Q 1503 1269 2011 1887
+Q 2519 2506 2519 3163
+Q 2519 3544 2331 3734
+Q 2144 3925 1763 3925
+Q 1509 3925 1234 3778
+Q 959 3631 763 3388
+L 331 3816
+Q 547 4125 944 4312
+Q 1341 4500 1775 4500
+Q 2478 4500 2826 4167
+Q 3175 3834 3175 3163
+Q 3175 2488 2748 1867
+Q 2322 1247 1450 675
+L 1450 0
+L 475 0
+z
+M 663 0
+L 663 581
+L 3363 581
+L 3363 0
+L 663 0
+z
+" transform="scale(0.015625)"/>
+      <path id="CascadiaMono-Roman-2a9" d="M 1900 -63
+Q 1128 -63 764 321
+Q 400 706 400 1519
+L 919 2088
+L 1150 2088
+Q 1244 2434 1523 2623
+Q 1803 2813 2206 2813
+Q 2788 2813 3103 2453
+Q 3419 2094 3419 1438
+Q 3419 731 3017 334
+Q 2616 -63 1900 -63
+z
+M 1922 513
+Q 2319 513 2541 758
+Q 2763 1003 2763 1438
+Q 2763 1822 2558 2030
+Q 2353 2238 1972 2238
+Q 1538 2238 1303 2013
+Q 1069 1788 1069 1375
+Q 1069 969 1294 741
+Q 1519 513 1922 513
+z
+M 400 1519
+L 400 1794
+Q 400 3066 1045 3728
+Q 1691 4391 3013 4456
+L 3075 3863
+Q 1094 3778 1094 2081
+L 1094 1725
+L 400 1519
+z
+" transform="scale(0.015625)"/>
+      <path id="CascadiaMono-Roman-5d" d="M 863 1413
+L 919 2031
+Q 1400 2031 1750 2232
+Q 2100 2434 2326 2776
+Q 2553 3119 2664 3548
+Q 2775 3978 2775 4438
+L 3419 4438
+Q 3419 3847 3247 3303
+Q 3075 2759 2747 2332
+Q 2419 1906 1944 1659
+Q 1469 1413 863 1413
+z
+M 469 0
+L 469 4438
+L 1094 4438
+L 1094 0
+L 469 0
+z
+M 2875 0
+L 1750 2163
+L 2313 2481
+L 3631 0
+L 2875 0
+z
+" transform="scale(0.015625)"/>
+      <path id="CascadiaMono-Roman-fa" d="M 2194 -63
+Q 1347 -63 886 382
+Q 425 828 425 1663
+Q 425 2475 861 2925
+Q 1297 3375 2106 3375
+Q 2591 3375 2936 3195
+Q 3281 3016 3428 2688
+L 2919 2303
+Q 2778 2531 2559 2656
+Q 2341 2781 2081 2781
+Q 1613 2781 1353 2498
+Q 1094 2216 1094 1694
+Q 1094 1128 1398 829
+Q 1703 531 2269 531
+Q 2500 531 2731 553
+Q 2963 575 3181 613
+L 3256 31
+Q 3000 -25 2726 -44
+Q 2453 -63 2194 -63
+z
+" transform="scale(0.015625)"/>
+      <path id="CascadiaMono-Roman-159" d="M 1875 -63
+Q 1188 -63 806 387
+Q 425 838 425 1656
+Q 425 2478 806 2926
+Q 1188 3375 1875 3375
+Q 2566 3375 2945 2926
+Q 3325 2478 3325 1656
+Q 3325 838 2945 387
+Q 2566 -63 1875 -63
+z
+M 1875 531
+Q 2241 531 2439 825
+Q 2638 1119 2638 1656
+Q 2638 2197 2439 2489
+Q 2241 2781 1875 2781
+Q 1509 2781 1311 2489
+Q 1113 2197 1113 1656
+Q 1113 1119 1311 825
+Q 1509 531 1875 531
+z
+" transform="scale(0.015625)"/>
+      <path id="CascadiaMono-Roman-150" d="M 2563 0
+L 2563 2156
+Q 2563 2456 2406 2618
+Q 2250 2781 1969 2781
+Q 1188 2781 1188 1863
+L 994 2713
+L 1250 2713
+Q 1278 3047 1493 3211
+Q 1709 3375 2125 3375
+Q 2650 3375 2937 3056
+Q 3225 2738 3225 2156
+L 3225 0
+L 2563 0
+z
+M 525 0
+L 525 3313
+L 1125 3313
+L 1188 2613
+L 1188 0
+L 525 0
+z
+" transform="scale(0.015625)"/>
+      <path id="CascadiaMono-Roman-187" d="M 2475 -63
+Q 1722 -63 1386 250
+Q 1050 563 1050 1250
+L 1050 1813
+L 1713 1813
+L 1713 1281
+Q 1713 888 1905 709
+Q 2097 531 2538 531
+Q 2694 531 2869 548
+Q 3044 566 3269 594
+L 3344 13
+Q 3125 -25 2917 -44
+Q 2709 -63 2475 -63
+z
+M 1050 1563
+L 1050 4313
+L 1713 4313
+L 1713 1563
+L 1050 1563
+z
+M 219 2769
+L 219 3313
+L 3219 3313
+L 3219 2769
+L 219 2769
+z
+" transform="scale(0.015625)"/>
+      <path id="CascadiaMono-Roman-104" d="M 2194 -63
+Q 1347 -63 886 382
+Q 425 828 425 1663
+Q 425 2475 815 2925
+Q 1206 3375 1919 3375
+Q 2591 3375 2958 2969
+Q 3325 2563 3325 1788
+Q 3325 1559 3306 1363
+L 981 1363
+L 981 1869
+L 2725 1869
+Q 2725 2316 2512 2555
+Q 2300 2794 1925 2794
+Q 1503 2794 1270 2506
+Q 1038 2219 1038 1694
+Q 1038 1119 1358 819
+Q 1678 519 2269 519
+Q 2475 519 2675 542
+Q 2875 566 3081 606
+L 3163 25
+Q 2869 -31 2625 -47
+Q 2381 -63 2194 -63
+z
+" transform="scale(0.015625)"/>
+      <path id="CascadiaMono-Roman-1a9" d="M 331 0
+L 1650 1825
+L 2669 3313
+L 3419 3313
+L 2050 1431
+L 1081 0
+L 331 0
+z
+M 2669 0
+L 1663 1431
+L 331 3313
+L 1081 3313
+L 2100 1825
+L 3419 0
+L 2669 0
+z
+" transform="scale(0.015625)"/>
+      <path id="CascadiaMono-Roman-de" d="M 2556 -31
+L 2513 950
+L 2425 1225
+L 2425 2081
+Q 2425 2413 2192 2567
+Q 1959 2722 1500 2734
+L 706 2756
+L 769 3344
+L 1438 3334
+Q 2259 3322 2657 2980
+Q 3056 2638 3056 1981
+L 3056 600
+L 3619 531
+L 3619 0
+L 2556 -31
+z
+M 1388 -63
+Q 869 -63 584 187
+Q 300 438 300 894
+Q 300 1419 692 1700
+Q 1084 1981 1800 1981
+Q 2097 1981 2330 1945
+Q 2563 1909 2744 1838
+L 2606 1388
+Q 2397 1434 2197 1442
+Q 1997 1450 1788 1450
+Q 925 1450 925 925
+Q 925 706 1073 587
+Q 1222 469 1494 469
+Q 1803 469 2011 575
+Q 2219 681 2322 847
+Q 2425 1013 2425 1188
+L 2425 1550
+L 2619 700
+L 2356 700
+L 2463 800
+Q 2463 513 2330 320
+Q 2197 128 1956 32
+Q 1716 -63 1388 -63
+z
+" transform="scale(0.015625)"/>
+      <path id="CascadiaMono-Roman-176" d="M 525 -1438
+L 525 3313
+L 1125 3313
+L 1188 2613
+L 1188 -1438
+L 525 -1438
+z
+M 2128 -63
+Q 1747 -63 1514 112
+Q 1281 288 1250 600
+L 963 600
+L 1188 1544
+Q 1188 1031 1389 765
+Q 1591 500 1981 500
+Q 2381 500 2587 784
+Q 2794 1069 2794 1625
+Q 2794 2213 2587 2513
+Q 2381 2813 1981 2813
+Q 1591 2813 1389 2547
+Q 1188 2281 1188 1769
+L 963 2713
+L 1219 2713
+Q 1263 3025 1502 3200
+Q 1741 3375 2128 3375
+Q 2781 3375 3115 2931
+Q 3450 2488 3450 1625
+Q 3450 794 3115 365
+Q 2781 -63 2128 -63
+z
+" transform="scale(0.015625)"/>
+      <path id="CascadiaMono-Roman-12b" d="M 1763 0
+L 1763 3125
+L 2425 3125
+L 2425 0
+L 1763 0
+z
+M 500 0
+L 500 544
+L 1825 544
+L 1825 0
+L 500 0
+z
+M 2363 0
+L 2363 544
+L 3444 544
+L 3444 0
+L 2363 0
+z
+M 688 2769
+L 688 3313
+L 2425 3313
+L 2425 2769
+L 688 2769
+z
+M 2072 3838
+Q 1881 3838 1745 3973
+Q 1609 4109 1609 4300
+Q 1609 4494 1745 4628
+Q 1881 4763 2072 4763
+Q 2266 4763 2400 4628
+Q 2534 4494 2534 4300
+Q 2534 4109 2400 3973
+Q 2266 3838 2072 3838
+z
+" transform="scale(0.015625)"/>
+      <path id="CascadiaMono-Roman-1aa" d="M 234 -1500
+L 203 -906
+L 722 -844
+Q 1050 -803 1283 -665
+Q 1516 -528 1681 -257
+Q 1847 13 1972 450
+L 2797 3313
+L 3484 3313
+L 2528 294
+Q 2341 -300 2108 -662
+Q 1875 -1025 1558 -1206
+Q 1241 -1388 797 -1438
+L 234 -1500
+z
+M 1491 0
+L 172 3313
+L 859 3313
+L 1941 500
+L 2041 500
+L 2041 0
+L 1491 0
+z
+" transform="scale(0.015625)"/>
+      <path id="CascadiaMono-Roman-14f" d="M 2738 0
+L 2738 2531
+Q 2738 2875 2481 2875
+Q 2156 2875 2156 2425
+L 1931 2900
+L 2188 2900
+Q 2203 3094 2342 3234
+Q 2481 3375 2744 3375
+Q 3088 3375 3244 3190
+Q 3400 3006 3400 2594
+L 3400 0
+L 2738 0
+z
+M 350 0
+L 350 3313
+L 938 3313
+L 1013 2613
+L 1013 0
+L 350 0
+z
+M 1594 0
+L 1594 2594
+Q 1594 2875 1331 2875
+Q 1013 2875 1013 2425
+L 819 2900
+L 1031 2900
+Q 1069 3375 1600 3375
+Q 1859 3375 2007 3197
+Q 2156 3019 2156 2656
+L 2156 0
+L 1594 0
+z
+" transform="scale(0.015625)"/>
+      <path id="CascadiaMono-Roman-100" d="M 1622 -63
+Q 972 -63 636 365
+Q 300 794 300 1625
+Q 300 2488 636 2931
+Q 972 3375 1622 3375
+Q 1994 3375 2226 3200
+Q 2459 3025 2500 2713
+L 2756 2713
+L 2563 1769
+Q 2563 2281 2361 2547
+Q 2159 2813 1769 2813
+Q 1369 2813 1162 2513
+Q 956 2213 956 1625
+Q 956 1069 1162 784
+Q 1369 500 1769 500
+Q 2159 500 2361 765
+Q 2563 1031 2563 1544
+L 2788 600
+L 2500 600
+Q 2469 288 2236 112
+Q 2003 -63 1622 -63
+z
+M 2631 -31
+L 2563 619
+L 2563 4688
+L 3225 4688
+L 3225 0
+L 2631 -31
+z
+" transform="scale(0.015625)"/>
+      <path id="CascadiaMono-Roman-18d" d="M 1550 -63
+Q 1028 -63 742 248
+Q 456 559 456 1125
+L 456 3313
+L 1119 3313
+L 1119 1125
+Q 1119 841 1281 686
+Q 1444 531 1738 531
+Q 2100 531 2284 761
+Q 2469 991 2469 1531
+L 2638 638
+L 2419 638
+Q 2341 300 2112 118
+Q 1884 -63 1550 -63
+z
+M 2525 -31
+L 2469 763
+L 2469 1344
+L 3131 1344
+L 3131 600
+L 3588 531
+L 3588 0
+L 2525 -31
+z
+M 2469 938
+L 2469 3313
+L 3131 3313
+L 3131 1125
+L 2469 938
+z
+" transform="scale(0.015625)"/>
+      <path id="CascadiaMono-Roman-179" d="M 1650 1425
+L 1456 2463
+L 1713 2463
+Q 1769 3375 2625 3375
+Q 3138 3375 3369 3081
+Q 3600 2788 3600 2131
+L 2944 2131
+Q 2944 2494 2836 2653
+Q 2728 2813 2488 2813
+Q 2066 2813 1858 2452
+Q 1650 2091 1650 1425
+z
+M 250 0
+L 250 544
+L 2463 544
+L 2463 0
+L 250 0
+z
+M 988 0
+L 988 3313
+L 1525 3313
+L 1650 2363
+L 1650 0
+L 988 0
+z
+M 375 2769
+L 375 3313
+L 1481 3313
+L 1544 2769
+L 375 2769
+z
+" transform="scale(0.015625)"/>
+      <path id="CascadiaMono-Roman-17e" d="M 1619 -63
+Q 1244 -63 976 -41
+Q 709 -19 488 31
+L 563 631
+Q 891 581 1142 556
+Q 1394 531 1619 531
+Q 2122 531 2348 629
+Q 2575 728 2575 944
+Q 2575 1094 2495 1167
+Q 2416 1241 2250 1281
+L 1488 1475
+Q 997 1600 767 1784
+Q 538 1969 538 2344
+Q 538 2888 955 3131
+Q 1372 3375 2300 3375
+Q 2541 3375 2748 3361
+Q 2956 3347 3175 3313
+L 3106 2738
+Q 2853 2763 2659 2772
+Q 2466 2781 2281 2781
+Q 1725 2781 1475 2686
+Q 1225 2591 1225 2375
+Q 1225 2231 1328 2167
+Q 1431 2103 1644 2050
+L 2256 1900
+Q 2778 1775 3020 1565
+Q 3263 1356 3263 956
+Q 3263 422 2872 179
+Q 2481 -63 1619 -63
+z
+" transform="scale(0.015625)"/>
+      <path id="CascadiaMono-Roman-11c" d="M 569 -1494
+L 538 -888
+L 1600 -856
+Q 2103 -841 2331 -578
+Q 2559 -316 2563 194
+L 2563 2613
+L 2625 3313
+L 3225 3313
+L 3225 294
+Q 3225 -591 2822 -1012
+Q 2419 -1434 1538 -1463
+L 569 -1494
+z
+M 1622 -63
+Q 972 -63 636 365
+Q 300 794 300 1625
+Q 300 2488 636 2931
+Q 972 3375 1622 3375
+Q 2009 3375 2250 3200
+Q 2491 3025 2531 2713
+L 2788 2713
+L 2563 1769
+Q 2563 2281 2361 2547
+Q 2159 2813 1769 2813
+Q 1369 2813 1162 2513
+Q 956 2213 956 1625
+Q 956 1069 1162 784
+Q 1369 500 1769 500
+Q 2159 500 2361 765
+Q 2563 1031 2563 1544
+L 2788 600
+L 2500 600
+Q 2469 288 2236 112
+Q 2003 -63 1622 -63
+z
+" transform="scale(0.015625)"/>
+     </defs>
+     <use xlink:href="#CascadiaMono-Roman-1e"/>
+     <use xlink:href="#CascadiaMono-Roman-9a" transform="translate(58.59375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-3f" transform="translate(117.1875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-2fd" transform="translate(175.78125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-94" transform="translate(234.375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-1" transform="translate(292.96875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-25" transform="translate(351.5625 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-35d" transform="translate(410.15625 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-35d" transform="translate(468.75 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-4f0" transform="translate(527.34375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-35d" transform="translate(585.9375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-35d" transform="translate(644.53125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-a3" transform="translate(703.125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-92" transform="translate(761.71875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-2a5" transform="translate(820.3125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-35d" transform="translate(878.90625 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-35d" transform="translate(937.5 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-4f0" transform="translate(996.09375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-35d" transform="translate(1054.6875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-35d" transform="translate(1113.28125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-2a5" transform="translate(1171.875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-2a9" transform="translate(1230.46875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-2a5" transform="translate(1289.0625 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-5d" transform="translate(1347.65625 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-35d" transform="translate(1406.25 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-fa" transform="translate(1464.84375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-159" transform="translate(1523.4375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-150" transform="translate(1582.03125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-187" transform="translate(1640.625 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-104" transform="translate(1699.21875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-1a9" transform="translate(1757.8125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-187" transform="translate(1816.40625 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-35d" transform="translate(1875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-fa" transform="translate(1933.59375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-de" transform="translate(1992.1875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-176" transform="translate(2050.78125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-de" transform="translate(2109.375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-fa" transform="translate(2167.96875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-12b" transform="translate(2226.5625 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-187" transform="translate(2285.15625 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-1aa" transform="translate(2343.75 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-35d" transform="translate(2402.34375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-35d" transform="translate(2460.9375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-4f0" transform="translate(2519.53125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-35d" transform="translate(2578.125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-35d" transform="translate(2636.71875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-14f" transform="translate(2695.3125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-104" transform="translate(2753.90625 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-100" transform="translate(2812.5 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-12b" transform="translate(2871.09375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-18d" transform="translate(2929.6875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-14f" transform="translate(2988.28125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-35d" transform="translate(3046.875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-179" transform="translate(3105.46875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-104" transform="translate(3164.0625 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-de" transform="translate(3222.65625 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-17e" transform="translate(3281.25 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-159" transform="translate(3339.84375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-150" transform="translate(3398.4375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-12b" transform="translate(3457.03125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-150" transform="translate(3515.625 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-11c" transform="translate(3574.21875 0)"/>
+    </g>
+   </g>
+   <g id="text_4">
+    <!-- 01 / FIXED-LENGTH CODING TEST -->
+    <g style="fill: #62e5ef" transform="translate(34.56 153.840234) scale(0.18 -0.18)">
+     <defs>
+      <path id="CascadiaMono-Roman-2a3" d="M 1875 -63
+Q 363 -63 363 2188
+Q 363 4500 1875 4500
+Q 3388 4500 3388 2188
+Q 3388 -63 1875 -63
+z
+M 1875 1719
+Q 1666 1719 1536 1848
+Q 1406 1978 1406 2188
+Q 1406 2400 1536 2528
+Q 1666 2656 1875 2656
+Q 2088 2656 2216 2528
+Q 2344 2400 2344 2188
+Q 2344 1978 2216 1848
+Q 2088 1719 1875 1719
+z
+M 1875 513
+Q 2719 513 2719 2188
+Q 2719 3925 1875 3925
+Q 1031 3925 1031 2188
+Q 1031 513 1875 513
+z
+" transform="scale(0.015625)"/>
+      <path id="CascadiaMono-Roman-2a4" d="M 1656 0
+L 1656 4438
+L 2281 4438
+L 2281 0
+L 1656 0
+z
+M 531 0
+L 531 594
+L 1719 594
+L 1719 0
+L 531 0
+z
+M 2219 0
+L 2219 594
+L 3288 594
+L 3288 0
+L 2219 0
+z
+M 594 3431
+L 594 4063
+L 1656 4438
+L 1656 3794
+L 594 3431
+z
+" transform="scale(0.015625)"/>
+      <path id="CascadiaMono-Roman-c7" d="M 2828 0
+L 1691 1988
+L 203 4438
+L 922 4438
+L 2103 2331
+L 3547 0
+L 2828 0
+z
+M 203 0
+L 1647 2331
+L 2828 4438
+L 3547 4438
+L 2059 1988
+L 922 0
+L 203 0
+z
+" transform="scale(0.015625)"/>
+      <path id="CascadiaMono-Roman-40" d="M 2194 -63
+Q 1200 -63 703 509
+Q 206 1081 206 2225
+Q 206 3309 722 3904
+Q 1238 4500 2169 4500
+Q 2634 4500 2984 4354
+Q 3334 4209 3500 3944
+L 3034 3481
+Q 2891 3694 2673 3809
+Q 2456 3925 2206 3925
+Q 1575 3925 1225 3489
+Q 875 3053 875 2256
+Q 875 1384 1225 948
+Q 1575 513 2269 513
+Q 2566 513 2792 570
+Q 3019 628 3163 669
+L 3406 125
+Q 3275 84 2945 10
+Q 2616 -63 2194 -63
+z
+M 2813 125
+L 2813 2219
+L 3406 2219
+L 3406 125
+L 2813 125
+z
+M 1906 1625
+L 1906 2219
+L 3388 2219
+L 3388 1625
+L 1906 1625
+z
+" transform="scale(0.015625)"/>
+      <path id="CascadiaMono-Roman-47" d="M 2688 0
+L 2688 4438
+L 3313 4438
+L 3313 0
+L 2688 0
+z
+M 438 0
+L 438 4438
+L 1063 4438
+L 1063 0
+L 438 0
+z
+M 569 1913
+L 569 2506
+L 3197 2506
+L 3197 1913
+L 569 1913
+z
+" transform="scale(0.015625)"/>
+     </defs>
+     <use xlink:href="#CascadiaMono-Roman-2a3"/>
+     <use xlink:href="#CascadiaMono-Roman-2a4" transform="translate(58.59375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-35d" transform="translate(117.1875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-2ee" transform="translate(175.78125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-35d" transform="translate(234.375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-3f" transform="translate(292.96875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-4c" transform="translate(351.5625 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-c7" transform="translate(410.15625 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-29" transform="translate(468.75 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-25" transform="translate(527.34375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-2fd" transform="translate(585.9375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-62" transform="translate(644.53125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-29" transform="translate(703.125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-6d" transform="translate(761.71875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-40" transform="translate(820.3125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-a3" transform="translate(878.90625 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-47" transform="translate(937.5 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-35d" transform="translate(996.09375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-1e" transform="translate(1054.6875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-75" transform="translate(1113.28125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-25" transform="translate(1171.875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-4c" transform="translate(1230.46875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-6d" transform="translate(1289.0625 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-40" transform="translate(1347.65625 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-35d" transform="translate(1406.25 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-a3" transform="translate(1464.84375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-29" transform="translate(1523.4375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-9a" transform="translate(1582.03125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-a3" transform="translate(1640.625 0)"/>
+    </g>
+   </g>
+   <g id="text_5">
+    <!-- Configuration -->
+    <g style="fill: #2dff86" transform="translate(47.52 193.133516) scale(0.14 -0.14)">
+     <defs>
+      <path id="CascadiaMono-Roman-11b" d="M 1256 0
+L 1256 3031
+Q 1256 4750 2825 4750
+Q 3181 4750 3513 4688
+L 3444 4113
+Q 3247 4138 3097 4147
+Q 2947 4156 2806 4156
+Q 1919 4156 1919 3063
+L 1919 0
+L 1256 0
+z
+M 213 2019
+L 213 2563
+L 3275 2563
+L 3275 2019
+L 213 2019
+z
+" transform="scale(0.015625)"/>
+     </defs>
+     <use xlink:href="#CascadiaMono-Roman-1e"/>
+     <use xlink:href="#CascadiaMono-Roman-159" transform="translate(58.59375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-150" transform="translate(117.1875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-11b" transform="translate(175.78125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-12b" transform="translate(234.375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-11c" transform="translate(292.96875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-18d" transform="translate(351.5625 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-179" transform="translate(410.15625 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-de" transform="translate(468.75 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-187" transform="translate(527.34375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-12b" transform="translate(585.9375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-159" transform="translate(644.53125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-150" transform="translate(703.125 0)"/>
+    </g>
+   </g>
+   <g id="text_6">
+    <!-- C1 decode -->
+    <g style="fill: #2dff86" transform="translate(433.245937 193.133516) scale(0.14 -0.14)">
+     <use xlink:href="#CascadiaMono-Roman-1e"/>
+     <use xlink:href="#CascadiaMono-Roman-2a4" transform="translate(58.59375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-35d" transform="translate(117.1875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-100" transform="translate(175.78125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-104" transform="translate(234.375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-fa" transform="translate(292.96875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-159" transform="translate(351.5625 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-100" transform="translate(410.15625 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-104" transform="translate(468.75 0)"/>
+    </g>
+   </g>
+   <g id="text_7">
+    <!-- C4 / request -->
+    <g style="fill: #2dff86" transform="translate(600.94125 193.133516) scale(0.14 -0.14)">
+     <defs>
+      <path id="CascadiaMono-Roman-2a7" d="M 231 994
+L 856 4188
+L 1500 4188
+L 869 994
+L 231 994
+z
+M 231 994
+L 669 1575
+L 2513 1575
+L 2513 994
+L 231 994
+z
+M 3019 994
+L 3019 1575
+L 3500 1575
+L 3500 994
+L 3019 994
+z
+M 2450 0
+L 2450 4438
+L 3081 4438
+L 3081 0
+L 2450 0
+z
+" transform="scale(0.015625)"/>
+      <path id="CascadiaMono-Roman-178" d="M 1619 -63
+Q 991 -63 645 373
+Q 300 809 300 1625
+Q 300 2459 647 2917
+Q 994 3375 1625 3375
+Q 2025 3375 2242 3211
+Q 2459 3047 2500 2713
+L 2756 2713
+L 2563 1988
+Q 2563 2403 2375 2608
+Q 2188 2813 1813 2813
+Q 1403 2813 1179 2503
+Q 956 2194 956 1625
+Q 956 1069 1175 784
+Q 1394 500 1819 500
+Q 2194 500 2378 640
+Q 2563 781 2563 1063
+L 2563 1425
+L 2788 513
+L 2500 513
+Q 2469 228 2231 82
+Q 1994 -63 1619 -63
+z
+M 2563 -1438
+L 2563 2613
+L 2625 3313
+L 3225 3313
+L 3225 -1438
+L 2563 -1438
+z
+" transform="scale(0.015625)"/>
+     </defs>
+     <use xlink:href="#CascadiaMono-Roman-1e"/>
+     <use xlink:href="#CascadiaMono-Roman-2a7" transform="translate(58.59375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-35d" transform="translate(117.1875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-2ee" transform="translate(175.78125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-35d" transform="translate(234.375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-179" transform="translate(292.96875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-104" transform="translate(351.5625 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-178" transform="translate(410.15625 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-18d" transform="translate(468.75 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-104" transform="translate(527.34375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-17e" transform="translate(585.9375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-187" transform="translate(644.53125 0)"/>
+    </g>
+   </g>
+   <g id="text_8">
+    <!-- C4 aggregate -->
+    <g style="fill: #2dff86" transform="translate(788.14125 193.133516) scale(0.14 -0.14)">
+     <use xlink:href="#CascadiaMono-Roman-1e"/>
+     <use xlink:href="#CascadiaMono-Roman-2a7" transform="translate(58.59375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-35d" transform="translate(117.1875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-de" transform="translate(175.78125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-11c" transform="translate(234.375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-11c" transform="translate(292.96875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-179" transform="translate(351.5625 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-104" transform="translate(410.15625 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-11c" transform="translate(468.75 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-de" transform="translate(527.34375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-187" transform="translate(585.9375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-104" transform="translate(644.53125 0)"/>
+    </g>
+   </g>
+   <g id="text_9">
+    <!-- C1 gain -->
+    <g style="fill: #2dff86" transform="translate(997.289062 193.133516) scale(0.14 -0.14)">
+     <use xlink:href="#CascadiaMono-Roman-1e"/>
+     <use xlink:href="#CascadiaMono-Roman-2a4" transform="translate(58.59375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-35d" transform="translate(117.1875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-11c" transform="translate(175.78125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-de" transform="translate(234.375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-12b" transform="translate(292.96875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-150" transform="translate(351.5625 0)"/>
+    </g>
+   </g>
+   <g id="text_10">
+    <!-- Oct 16.2 / baseline -->
+    <g style="fill: #62e5ef" transform="translate(47.52 231.293516) scale(0.14 -0.14)">
+     <defs>
+      <path id="CascadiaMono-Roman-2de" d="M 1875 -63
+Q 1684 -63 1548 73
+Q 1413 209 1413 400
+Q 1413 594 1548 728
+Q 1684 863 1875 863
+Q 2069 863 2203 728
+Q 2338 594 2338 400
+Q 2338 209 2203 73
+Q 2069 -63 1875 -63
+z
+" transform="scale(0.015625)"/>
+      <path id="CascadiaMono-Roman-f9" d="M 1397 -63
+Q 1172 -63 953 -45
+Q 734 -28 509 0
+L 766 606
+Q 931 528 1131 514
+Q 1331 500 1528 500
+Q 2125 500 2451 859
+Q 2778 1219 2778 1875
+Q 2778 2325 2579 2569
+Q 2381 2813 2016 2813
+Q 1172 2813 1172 1863
+L 978 2713
+L 1234 2713
+Q 1281 3375 2047 3375
+Q 2709 3375 3071 2984
+Q 3434 2594 3434 1875
+Q 3434 953 2901 445
+Q 2369 -63 1397 -63
+z
+M 509 0
+L 509 4688
+L 1172 4688
+L 1172 56
+L 509 0
+z
+" transform="scale(0.015625)"/>
+      <path id="CascadiaMono-Roman-143" d="M 2369 -63
+Q 1794 -63 1537 250
+Q 1281 563 1281 1250
+L 1281 4688
+L 1944 4688
+L 1944 1281
+Q 1944 1019 1994 853
+Q 2044 688 2189 609
+Q 2334 531 2619 531
+Q 2878 531 3281 650
+L 3356 69
+Q 3103 0 2870 -31
+Q 2638 -63 2369 -63
+z
+M 306 4144
+L 306 4688
+L 1338 4688
+L 1338 4144
+L 306 4144
+z
+" transform="scale(0.015625)"/>
+     </defs>
+     <use xlink:href="#CascadiaMono-Roman-75"/>
+     <use xlink:href="#CascadiaMono-Roman-fa" transform="translate(58.59375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-187" transform="translate(117.1875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-35d" transform="translate(175.78125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-2a4" transform="translate(234.375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-2a9" transform="translate(292.96875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-2de" transform="translate(351.5625 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-2a5" transform="translate(410.15625 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-35d" transform="translate(468.75 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-2ee" transform="translate(527.34375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-35d" transform="translate(585.9375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-f9" transform="translate(644.53125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-de" transform="translate(703.125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-17e" transform="translate(761.71875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-104" transform="translate(820.3125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-143" transform="translate(878.90625 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-12b" transform="translate(937.5 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-150" transform="translate(996.09375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-104" transform="translate(1054.6875 0)"/>
+    </g>
+   </g>
+   <g id="text_11">
+    <!-- 54.1 -->
+    <g style="fill: #edf3f5" transform="translate(453.75375 231.293516) scale(0.14 -0.14)">
+     <defs>
+      <path id="CascadiaMono-Roman-2a8" d="M 1919 -63
+Q 1200 -63 806 279
+Q 413 622 413 1244
+L 1081 1244
+Q 1081 897 1300 705
+Q 1519 513 1925 513
+Q 2325 513 2544 753
+Q 2763 994 2763 1431
+Q 2763 1859 2525 2095
+Q 2288 2331 1850 2331
+Q 1413 2331 1031 2125
+L 1088 2656
+Q 1334 2797 1578 2845
+Q 1822 2894 2069 2894
+Q 2713 2894 3066 2512
+Q 3419 2131 3419 1431
+Q 3419 956 3242 622
+Q 3066 288 2731 112
+Q 2397 -63 1919 -63
+z
+M 681 2125
+L 744 4438
+L 1388 4438
+L 1325 2513
+L 1031 2125
+L 681 2125
+z
+M 1044 3856
+L 988 4438
+L 3138 4438
+L 3138 3856
+L 1044 3856
+z
+" transform="scale(0.015625)"/>
+     </defs>
+     <use xlink:href="#CascadiaMono-Roman-2a8"/>
+     <use xlink:href="#CascadiaMono-Roman-2a7" transform="translate(58.59375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-2de" transform="translate(117.1875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-2a4" transform="translate(175.78125 0)"/>
+    </g>
+   </g>
+   <g id="text_12">
+    <!-- 41.2 -->
+    <g style="fill: #edf3f5" transform="translate(633.75375 231.293516) scale(0.14 -0.14)">
+     <use xlink:href="#CascadiaMono-Roman-2a7"/>
+     <use xlink:href="#CascadiaMono-Roman-2a4" transform="translate(58.59375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-2de" transform="translate(117.1875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-2a5" transform="translate(175.78125 0)"/>
+    </g>
+   </g>
+   <g id="text_13">
+    <!-- 159.8 -->
+    <g style="fill: #edf3f5" transform="translate(816.852188 231.293516) scale(0.14 -0.14)">
+     <defs>
+      <path id="CascadiaMono-Roman-2ac" d="M 1575 1581
+Q 994 1581 678 1940
+Q 363 2300 363 2956
+Q 363 3666 764 4061
+Q 1166 4456 1881 4456
+Q 2653 4456 3017 4072
+Q 3381 3688 3381 2875
+L 2863 2306
+L 2631 2306
+Q 2538 1959 2258 1770
+Q 1978 1581 1575 1581
+z
+M 769 -63
+L 706 531
+Q 2688 616 2688 2313
+L 2688 2669
+L 3381 2875
+L 3381 2600
+Q 3381 1331 2736 667
+Q 2091 3 769 -63
+z
+M 1809 2156
+Q 2244 2156 2478 2381
+Q 2713 2606 2713 3019
+Q 2713 3425 2488 3653
+Q 2263 3881 1859 3881
+Q 1463 3881 1241 3637
+Q 1019 3394 1019 2956
+Q 1019 2572 1223 2364
+Q 1428 2156 1809 2156
+z
+" transform="scale(0.015625)"/>
+      <path id="CascadiaMono-Roman-2ab" d="M 1875 -63
+Q 1153 -63 758 273
+Q 363 609 363 1219
+Q 363 1778 758 2083
+Q 1153 2388 1875 2388
+Q 2597 2388 2992 2083
+Q 3388 1778 3388 1219
+Q 3388 609 2992 273
+Q 2597 -63 1875 -63
+z
+M 1875 513
+Q 2284 513 2507 706
+Q 2731 900 2731 1250
+Q 2731 1625 2507 1834
+Q 2284 2044 1875 2044
+Q 1466 2044 1242 1834
+Q 1019 1625 1019 1250
+Q 1019 900 1242 706
+Q 1466 513 1875 513
+z
+M 1356 2206
+L 1356 2525
+L 2400 2525
+L 2400 2206
+L 1356 2206
+z
+M 1875 2644
+Q 2225 2644 2415 2805
+Q 2606 2966 2606 3250
+Q 2606 3575 2415 3750
+Q 2225 3925 1875 3925
+Q 1525 3925 1334 3750
+Q 1144 3575 1144 3250
+Q 1144 2966 1334 2805
+Q 1525 2644 1875 2644
+z
+M 1875 2331
+Q 1216 2331 852 2604
+Q 488 2878 488 3375
+Q 488 3909 852 4204
+Q 1216 4500 1875 4500
+Q 2538 4500 2900 4204
+Q 3263 3909 3263 3375
+Q 3263 2878 2900 2604
+Q 2538 2331 1875 2331
+z
+" transform="scale(0.015625)"/>
+     </defs>
+     <use xlink:href="#CascadiaMono-Roman-2a4"/>
+     <use xlink:href="#CascadiaMono-Roman-2a8" transform="translate(58.59375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-2ac" transform="translate(117.1875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-2de" transform="translate(175.78125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-2ab" transform="translate(234.375 0)"/>
+    </g>
+   </g>
+   <g id="text_14">
+    <!-- baseline -->
+    <g style="fill: #edf3f5" transform="translate(993.1875 231.293516) scale(0.14 -0.14)">
+     <use xlink:href="#CascadiaMono-Roman-f9"/>
+     <use xlink:href="#CascadiaMono-Roman-de" transform="translate(58.59375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-17e" transform="translate(117.1875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-104" transform="translate(175.78125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-143" transform="translate(234.375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-12b" transform="translate(292.96875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-150" transform="translate(351.5625 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-104" transform="translate(410.15625 0)"/>
+    </g>
+   </g>
+   <g id="text_15">
+    <!-- + RoCEnante (one-shot) -->
+    <g style="fill: #62e5ef" transform="translate(47.52 269.453516) scale(0.14 -0.14)">
+     <defs>
+      <path id="CascadiaMono-Roman-387" d="M 1575 594
+L 1575 3838
+L 2175 3838
+L 2175 594
+L 1575 594
+z
+M 313 1928
+L 313 2509
+L 3438 2509
+L 3438 1928
+L 313 1928
+z
+" transform="scale(0.015625)"/>
+      <path id="CascadiaMono-Roman-2f1" d="M 2969 -625
+Q 1953 -625 1392 123
+Q 831 872 831 2238
+Q 831 3584 1392 4323
+Q 1953 5063 2969 5063
+L 3119 5063
+L 3119 4500
+L 3031 4500
+Q 2291 4500 1889 3906
+Q 1488 3313 1488 2238
+Q 1488 1144 1889 540
+Q 2291 -63 3031 -63
+L 3119 -63
+L 3119 -625
+L 2969 -625
+z
+" transform="scale(0.015625)"/>
+      <path id="CascadiaMono-Roman-126" d="M 2563 0
+L 2563 2156
+Q 2563 2472 2406 2642
+Q 2250 2813 1969 2813
+Q 1188 2813 1188 1863
+L 994 2713
+L 1250 2713
+Q 1278 3047 1493 3211
+Q 1709 3375 2125 3375
+Q 2650 3375 2937 3056
+Q 3225 2738 3225 2156
+L 3225 0
+L 2563 0
+z
+M 525 0
+L 525 4688
+L 1188 4688
+L 1188 0
+L 525 0
+z
+" transform="scale(0.015625)"/>
+      <path id="CascadiaMono-Roman-2f2" d="M 631 -625
+L 631 -63
+L 719 -63
+Q 1459 -63 1861 540
+Q 2263 1144 2263 2238
+Q 2263 3313 1861 3906
+Q 1459 4500 719 4500
+L 631 4500
+L 631 5063
+L 781 5063
+Q 1800 5063 2359 4323
+Q 2919 3584 2919 2238
+Q 2919 872 2359 123
+Q 1800 -625 781 -625
+L 631 -625
+z
+" transform="scale(0.015625)"/>
+     </defs>
+     <use xlink:href="#CascadiaMono-Roman-387"/>
+     <use xlink:href="#CascadiaMono-Roman-35d" transform="translate(58.59375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-95" transform="translate(117.1875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-159" transform="translate(175.78125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-1e" transform="translate(234.375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-29" transform="translate(292.96875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-150" transform="translate(351.5625 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-de" transform="translate(410.15625 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-150" transform="translate(468.75 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-187" transform="translate(527.34375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-104" transform="translate(585.9375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-35d" transform="translate(644.53125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-2f1" transform="translate(703.125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-159" transform="translate(761.71875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-150" transform="translate(820.3125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-104" transform="translate(878.90625 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-2fd" transform="translate(937.5 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-17e" transform="translate(996.09375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-126" transform="translate(1054.6875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-159" transform="translate(1113.28125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-187" transform="translate(1171.875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-2f2" transform="translate(1230.46875 0)"/>
+    </g>
+   </g>
+   <g id="text_16">
+    <!-- 68.2 -->
+    <g style="fill: #edf3f5" transform="translate(453.75375 269.453516) scale(0.14 -0.14)">
+     <use xlink:href="#CascadiaMono-Roman-2a9"/>
+     <use xlink:href="#CascadiaMono-Roman-2ab" transform="translate(58.59375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-2de" transform="translate(117.1875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-2a5" transform="translate(175.78125 0)"/>
+    </g>
+   </g>
+   <g id="text_17">
+    <!-- 45.9 -->
+    <g style="fill: #edf3f5" transform="translate(633.75375 269.453516) scale(0.14 -0.14)">
+     <use xlink:href="#CascadiaMono-Roman-2a7"/>
+     <use xlink:href="#CascadiaMono-Roman-2a8" transform="translate(58.59375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-2de" transform="translate(117.1875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-2ac" transform="translate(175.78125 0)"/>
+    </g>
+   </g>
+   <g id="text_18">
+    <!-- 175.7 -->
+    <g style="fill: #edf3f5" transform="translate(816.852188 269.453516) scale(0.14 -0.14)">
+     <defs>
+      <path id="CascadiaMono-Roman-2aa" d="M 1397 0
+L 2922 4438
+L 3606 4438
+L 2081 0
+L 1397 0
+z
+M 350 2881
+L 350 4344
+L 994 4344
+L 994 2881
+L 350 2881
+z
+M 350 3844
+L 350 4438
+L 3606 4438
+L 3163 3844
+L 350 3844
+z
+" transform="scale(0.015625)"/>
+     </defs>
+     <use xlink:href="#CascadiaMono-Roman-2a4"/>
+     <use xlink:href="#CascadiaMono-Roman-2aa" transform="translate(58.59375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-2a8" transform="translate(117.1875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-2de" transform="translate(175.78125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-2aa" transform="translate(234.375 0)"/>
+    </g>
+   </g>
+   <g id="text_19">
+    <!-- +26.0% -->
+    <g style="fill: #edf3f5" transform="translate(1001.390625 269.453516) scale(0.14 -0.14)">
+     <defs>
+      <path id="CascadiaMono-Roman-3a1" d="M 581 956
+L 294 1381
+L 3200 3456
+L 3488 3050
+L 581 956
+z
+M 2669 -63
+Q 2225 -63 1956 214
+Q 1688 491 1688 944
+Q 1688 1403 1956 1679
+Q 2225 1956 2669 1956
+Q 3109 1956 3376 1679
+Q 3644 1403 3644 944
+Q 3644 491 3376 214
+Q 3109 -63 2669 -63
+z
+M 2669 447
+Q 2853 447 2965 584
+Q 3078 722 3078 944
+Q 3078 1172 2965 1309
+Q 2853 1447 2669 1447
+Q 2478 1447 2365 1309
+Q 2253 1172 2253 944
+Q 2253 722 2365 584
+Q 2478 447 2669 447
+z
+M 1150 2481
+Q 706 2481 437 2757
+Q 169 3034 169 3488
+Q 169 3947 437 4223
+Q 706 4500 1150 4500
+Q 1591 4500 1858 4228
+Q 2125 3956 2125 3488
+Q 2125 3034 1858 2757
+Q 1591 2481 1150 2481
+z
+M 1150 2991
+Q 1334 2991 1446 3128
+Q 1559 3266 1559 3488
+Q 1559 3719 1446 3858
+Q 1334 3997 1150 3997
+Q 959 3997 846 3858
+Q 734 3719 734 3488
+Q 734 3266 846 3128
+Q 959 2991 1150 2991
+z
+" transform="scale(0.015625)"/>
+     </defs>
+     <use xlink:href="#CascadiaMono-Roman-387"/>
+     <use xlink:href="#CascadiaMono-Roman-2a5" transform="translate(58.59375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-2a9" transform="translate(117.1875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-2de" transform="translate(175.78125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-2a3" transform="translate(234.375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-3a1" transform="translate(292.96875 0)"/>
+    </g>
+   </g>
+   <g id="text_20">
+    <!-- + autotuning / first run -->
+    <g style="fill: #62e5ef" transform="translate(47.52 307.613516) scale(0.14 -0.14)">
+     <use xlink:href="#CascadiaMono-Roman-387"/>
+     <use xlink:href="#CascadiaMono-Roman-35d" transform="translate(58.59375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-de" transform="translate(117.1875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-18d" transform="translate(175.78125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-187" transform="translate(234.375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-159" transform="translate(292.96875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-187" transform="translate(351.5625 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-18d" transform="translate(410.15625 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-150" transform="translate(468.75 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-12b" transform="translate(527.34375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-150" transform="translate(585.9375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-11c" transform="translate(644.53125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-35d" transform="translate(703.125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-2ee" transform="translate(761.71875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-35d" transform="translate(820.3125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-11b" transform="translate(878.90625 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-12b" transform="translate(937.5 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-179" transform="translate(996.09375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-17e" transform="translate(1054.6875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-187" transform="translate(1113.28125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-35d" transform="translate(1171.875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-179" transform="translate(1230.46875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-18d" transform="translate(1289.0625 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-150" transform="translate(1347.65625 0)"/>
+    </g>
+   </g>
+   <g id="text_21">
+    <!-- 79.3 -->
+    <g style="fill: #edf3f5" transform="translate(453.75375 307.613516) scale(0.14 -0.14)">
+     <defs>
+      <path id="CascadiaMono-Roman-2a6" d="M 1606 -63
+Q 1263 -63 977 -22
+Q 691 19 469 88
+L 547 684
+Q 738 631 977 572
+Q 1216 513 1581 513
+Q 2069 513 2337 706
+Q 2606 900 2606 1250
+Q 2606 1500 2451 1675
+Q 2297 1850 2003 1940
+Q 1709 2031 1288 2031
+L 1188 2031
+L 1113 2438
+L 2069 2363
+Q 2600 2322 2931 2017
+Q 3263 1713 3263 1188
+Q 3263 594 2830 265
+Q 2397 -63 1606 -63
+z
+M 1188 2031
+L 1113 2438
+Q 1606 2503 1914 2631
+Q 2222 2759 2367 2942
+Q 2513 3125 2513 3350
+Q 2513 3622 2336 3773
+Q 2159 3925 1831 3925
+Q 1594 3925 1326 3806
+Q 1059 3688 822 3450
+L 391 3878
+Q 678 4203 1056 4351
+Q 1434 4500 1900 4500
+Q 2506 4500 2837 4242
+Q 3169 3984 3169 3506
+Q 3169 3106 2912 2811
+Q 2656 2516 2244 2406
+L 2244 2031
+L 1188 2031
+z
+" transform="scale(0.015625)"/>
+     </defs>
+     <use xlink:href="#CascadiaMono-Roman-2aa"/>
+     <use xlink:href="#CascadiaMono-Roman-2ac" transform="translate(58.59375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-2de" transform="translate(117.1875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-2a6" transform="translate(175.78125 0)"/>
+    </g>
+   </g>
+   <g id="text_22">
+    <!-- 45.9 -->
+    <g style="fill: #edf3f5" transform="translate(633.75375 307.613516) scale(0.14 -0.14)">
+     <use xlink:href="#CascadiaMono-Roman-2a7"/>
+     <use xlink:href="#CascadiaMono-Roman-2a8" transform="translate(58.59375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-2de" transform="translate(117.1875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-2ac" transform="translate(175.78125 0)"/>
+    </g>
+   </g>
+   <g id="text_23">
+    <!-- 177.4 -->
+    <g style="fill: #edf3f5" transform="translate(816.852188 307.613516) scale(0.14 -0.14)">
+     <use xlink:href="#CascadiaMono-Roman-2a4"/>
+     <use xlink:href="#CascadiaMono-Roman-2aa" transform="translate(58.59375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-2aa" transform="translate(117.1875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-2de" transform="translate(175.78125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-2a7" transform="translate(234.375 0)"/>
+    </g>
+   </g>
+   <g id="text_24">
+    <!-- +46.5% -->
+    <g style="fill: #edf3f5" transform="translate(1001.390625 307.613516) scale(0.14 -0.14)">
+     <use xlink:href="#CascadiaMono-Roman-387"/>
+     <use xlink:href="#CascadiaMono-Roman-2a7" transform="translate(58.59375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-2a9" transform="translate(117.1875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-2de" transform="translate(175.78125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-2a8" transform="translate(234.375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-3a1" transform="translate(292.96875 0)"/>
+    </g>
+   </g>
+   <g id="text_25">
+    <!-- MTP 5 / rejected -->
+    <g style="fill: #62e5ef" transform="translate(47.52 345.773516) scale(0.14 -0.14)">
+     <defs>
+      <path id="CascadiaMono-Roman-6c" d="M 1769 1813
+L 1863 2531
+L 1900 2531
+L 2406 4438
+L 2850 4438
+L 2850 3650
+L 2669 3650
+L 2163 1813
+L 1769 1813
+z
+M 400 0
+L 400 4438
+L 1000 4438
+L 1000 0
+L 400 0
+z
+M 1588 1813
+L 1081 3650
+L 900 3650
+L 900 4438
+L 1344 4438
+L 1850 2531
+L 1875 2531
+L 1938 1813
+L 1588 1813
+z
+M 2750 0
+L 2750 4438
+L 3350 4438
+L 3350 0
+L 2750 0
+z
+" transform="scale(0.015625)"/>
+      <path id="CascadiaMono-Roman-139" d="M 563 -1500
+L 531 -913
+L 1156 -856
+Q 1659 -809 1886 -562
+Q 2113 -316 2113 194
+L 2113 1200
+L 2775 1200
+L 2775 294
+Q 2775 -297 2600 -667
+Q 2425 -1038 2053 -1227
+Q 1681 -1416 1094 -1463
+L 563 -1500
+z
+M 825 2769
+L 825 3313
+L 2163 3313
+L 2163 2769
+L 825 2769
+z
+M 2113 1094
+L 2113 3313
+L 2775 3313
+L 2775 1094
+L 2113 1094
+z
+M 2375 3838
+Q 2184 3838 2048 3973
+Q 1913 4109 1913 4300
+Q 1913 4494 2048 4628
+Q 2184 4763 2375 4763
+Q 2569 4763 2703 4628
+Q 2838 4494 2838 4300
+Q 2838 4109 2703 3973
+Q 2569 3838 2375 3838
+z
+" transform="scale(0.015625)"/>
+     </defs>
+     <use xlink:href="#CascadiaMono-Roman-6c"/>
+     <use xlink:href="#CascadiaMono-Roman-a3" transform="translate(58.59375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-92" transform="translate(117.1875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-35d" transform="translate(175.78125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-2a8" transform="translate(234.375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-35d" transform="translate(292.96875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-2ee" transform="translate(351.5625 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-35d" transform="translate(410.15625 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-179" transform="translate(468.75 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-104" transform="translate(527.34375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-139" transform="translate(585.9375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-104" transform="translate(644.53125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-fa" transform="translate(703.125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-187" transform="translate(761.71875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-104" transform="translate(820.3125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-100" transform="translate(878.90625 0)"/>
+    </g>
+   </g>
+   <g id="text_26">
+    <!-- 74.4 -->
+    <g style="fill: #edf3f5" transform="translate(453.75375 345.773516) scale(0.14 -0.14)">
+     <use xlink:href="#CascadiaMono-Roman-2aa"/>
+     <use xlink:href="#CascadiaMono-Roman-2a7" transform="translate(58.59375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-2de" transform="translate(117.1875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-2a7" transform="translate(175.78125 0)"/>
+    </g>
+   </g>
+   <g id="text_27">
+    <!-- 43.9 -->
+    <g style="fill: #edf3f5" transform="translate(633.75375 345.773516) scale(0.14 -0.14)">
+     <use xlink:href="#CascadiaMono-Roman-2a7"/>
+     <use xlink:href="#CascadiaMono-Roman-2a6" transform="translate(58.59375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-2de" transform="translate(117.1875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-2ac" transform="translate(175.78125 0)"/>
+    </g>
+   </g>
+   <g id="text_28">
+    <!-- 169.3 -->
+    <g style="fill: #edf3f5" transform="translate(816.852188 345.773516) scale(0.14 -0.14)">
+     <use xlink:href="#CascadiaMono-Roman-2a4"/>
+     <use xlink:href="#CascadiaMono-Roman-2a9" transform="translate(58.59375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-2ac" transform="translate(117.1875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-2de" transform="translate(175.78125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-2a6" transform="translate(234.375 0)"/>
+    </g>
+   </g>
+   <g id="text_29">
+    <!-- +37.5% -->
+    <g style="fill: #edf3f5" transform="translate(1001.390625 345.773516) scale(0.14 -0.14)">
+     <use xlink:href="#CascadiaMono-Roman-387"/>
+     <use xlink:href="#CascadiaMono-Roman-2a6" transform="translate(58.59375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-2aa" transform="translate(117.1875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-2de" transform="translate(175.78125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-2a8" transform="translate(234.375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-3a1" transform="translate(292.96875 0)"/>
+    </g>
+   </g>
+   <g id="text_30">
+    <!-- Two-shot RoCE / trial -->
+    <g style="fill: #62e5ef" transform="translate(47.52 383.933516) scale(0.14 -0.14)">
+     <defs>
+      <path id="CascadiaMono-Roman-1a4" d="M 2250 0
+L 1863 2631
+L 1813 2631
+L 1541 3313
+L 2147 3313
+L 2538 500
+L 2594 500
+L 2875 3313
+L 3531 3313
+L 3063 0
+L 2250 0
+z
+M 594 0
+L 219 3313
+L 844 3313
+L 1094 500
+L 1150 500
+L 1541 3313
+L 2147 3313
+L 1869 2631
+L 1825 2631
+L 1438 0
+L 594 0
+z
+" transform="scale(0.015625)"/>
+     </defs>
+     <use xlink:href="#CascadiaMono-Roman-a3"/>
+     <use xlink:href="#CascadiaMono-Roman-1a4" transform="translate(58.59375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-159" transform="translate(117.1875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-2fd" transform="translate(175.78125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-17e" transform="translate(234.375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-126" transform="translate(292.96875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-159" transform="translate(351.5625 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-187" transform="translate(410.15625 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-35d" transform="translate(468.75 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-95" transform="translate(527.34375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-159" transform="translate(585.9375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-1e" transform="translate(644.53125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-29" transform="translate(703.125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-35d" transform="translate(761.71875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-2ee" transform="translate(820.3125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-35d" transform="translate(878.90625 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-187" transform="translate(937.5 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-179" transform="translate(996.09375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-12b" transform="translate(1054.6875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-de" transform="translate(1113.28125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-143" transform="translate(1171.875 0)"/>
+    </g>
+   </g>
+   <g id="text_31">
+    <!-- 74.7 -->
+    <g style="fill: #edf3f5" transform="translate(453.75375 383.933516) scale(0.14 -0.14)">
+     <use xlink:href="#CascadiaMono-Roman-2aa"/>
+     <use xlink:href="#CascadiaMono-Roman-2a7" transform="translate(58.59375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-2de" transform="translate(117.1875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-2aa" transform="translate(175.78125 0)"/>
+    </g>
+   </g>
+   <g id="text_32">
+    <!-- 46.1 -->
+    <g style="fill: #edf3f5" transform="translate(633.75375 383.933516) scale(0.14 -0.14)">
+     <use xlink:href="#CascadiaMono-Roman-2a7"/>
+     <use xlink:href="#CascadiaMono-Roman-2a9" transform="translate(58.59375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-2de" transform="translate(117.1875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-2a4" transform="translate(175.78125 0)"/>
+    </g>
+   </g>
+   <g id="text_33">
+    <!-- 178.7 -->
+    <g style="fill: #edf3f5" transform="translate(816.852188 383.933516) scale(0.14 -0.14)">
+     <use xlink:href="#CascadiaMono-Roman-2a4"/>
+     <use xlink:href="#CascadiaMono-Roman-2aa" transform="translate(58.59375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-2ab" transform="translate(117.1875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-2de" transform="translate(175.78125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-2aa" transform="translate(234.375 0)"/>
+    </g>
+   </g>
+   <g id="text_34">
+    <!-- +38.0% -->
+    <g style="fill: #edf3f5" transform="translate(1001.390625 383.933516) scale(0.14 -0.14)">
+     <use xlink:href="#CascadiaMono-Roman-387"/>
+     <use xlink:href="#CascadiaMono-Roman-2a6" transform="translate(58.59375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-2ab" transform="translate(117.1875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-2de" transform="translate(175.78125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-2a3" transform="translate(234.375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-3a1" transform="translate(292.96875 0)"/>
+    </g>
+   </g>
+   <g id="text_35">
+    <!-- One-shot recheck / retained -->
+    <g style="fill: #62e5ef" transform="translate(47.52 422.093516) scale(0.14 -0.14)">
+     <defs>
+      <path id="CascadiaMono-Roman-13e" d="M 969 1256
+L 969 1850
+L 1344 1850
+Q 1756 1850 2022 1992
+Q 2288 2134 2439 2456
+Q 2591 2778 2663 3313
+L 3350 3313
+Q 3219 2278 2761 1767
+Q 2303 1256 1500 1256
+L 969 1256
+z
+M 500 0
+L 500 4688
+L 1163 4688
+L 1163 0
+L 500 0
+z
+M 2744 0
+L 1800 1613
+L 2425 1869
+L 3563 0
+L 2744 0
+z
+" transform="scale(0.015625)"/>
+     </defs>
+     <use xlink:href="#CascadiaMono-Roman-75"/>
+     <use xlink:href="#CascadiaMono-Roman-150" transform="translate(58.59375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-104" transform="translate(117.1875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-2fd" transform="translate(175.78125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-17e" transform="translate(234.375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-126" transform="translate(292.96875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-159" transform="translate(351.5625 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-187" transform="translate(410.15625 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-35d" transform="translate(468.75 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-179" transform="translate(527.34375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-104" transform="translate(585.9375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-fa" transform="translate(644.53125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-126" transform="translate(703.125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-104" transform="translate(761.71875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-fa" transform="translate(820.3125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-13e" transform="translate(878.90625 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-35d" transform="translate(937.5 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-2ee" transform="translate(996.09375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-35d" transform="translate(1054.6875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-179" transform="translate(1113.28125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-104" transform="translate(1171.875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-187" transform="translate(1230.46875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-de" transform="translate(1289.0625 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-12b" transform="translate(1347.65625 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-150" transform="translate(1406.25 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-104" transform="translate(1464.84375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-100" transform="translate(1523.4375 0)"/>
+    </g>
+   </g>
+   <g id="text_36">
+    <!-- 76.5 -->
+    <g style="fill: #edf3f5" transform="translate(453.75375 422.093516) scale(0.14 -0.14)">
+     <use xlink:href="#CascadiaMono-Roman-2aa"/>
+     <use xlink:href="#CascadiaMono-Roman-2a9" transform="translate(58.59375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-2de" transform="translate(117.1875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-2a8" transform="translate(175.78125 0)"/>
+    </g>
+   </g>
+   <g id="text_37">
+    <!-- 46.0 -->
+    <g style="fill: #edf3f5" transform="translate(633.75375 422.093516) scale(0.14 -0.14)">
+     <use xlink:href="#CascadiaMono-Roman-2a7"/>
+     <use xlink:href="#CascadiaMono-Roman-2a9" transform="translate(58.59375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-2de" transform="translate(117.1875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-2a3" transform="translate(175.78125 0)"/>
+    </g>
+   </g>
+   <g id="text_38">
+    <!-- 176.9 -->
+    <g style="fill: #edf3f5" transform="translate(816.852188 422.093516) scale(0.14 -0.14)">
+     <use xlink:href="#CascadiaMono-Roman-2a4"/>
+     <use xlink:href="#CascadiaMono-Roman-2aa" transform="translate(58.59375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-2a9" transform="translate(117.1875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-2de" transform="translate(175.78125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-2ac" transform="translate(234.375 0)"/>
+    </g>
+   </g>
+   <g id="text_39">
+    <!-- +41.4% -->
+    <g style="fill: #edf3f5" transform="translate(1001.390625 422.093516) scale(0.14 -0.14)">
+     <use xlink:href="#CascadiaMono-Roman-387"/>
+     <use xlink:href="#CascadiaMono-Roman-2a7" transform="translate(58.59375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-2a4" transform="translate(117.1875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-2de" transform="translate(175.78125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-2a7" transform="translate(234.375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-3a1" transform="translate(292.96875 0)"/>
+    </g>
+   </g>
+   <g id="text_40">
+    <!-- tok/s  |  1,024 output tokens/request  |  3 repetitions at C1 and C4 -->
+    <g style="fill: #9cabb3" transform="translate(34.56 459.920156) scale(0.12 -0.12)">
+     <defs>
+      <path id="CascadiaMono-Roman-2df" d="M 1288 -1363
+L 1538 794
+L 2263 794
+L 1888 -1363
+L 1288 -1363
+z
+" transform="scale(0.015625)"/>
+     </defs>
+     <use xlink:href="#CascadiaMono-Roman-187"/>
+     <use xlink:href="#CascadiaMono-Roman-159" transform="translate(58.59375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-13e" transform="translate(117.1875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-2ee" transform="translate(175.78125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-17e" transform="translate(234.375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-35d" transform="translate(292.96875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-35d" transform="translate(351.5625 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-4f0" transform="translate(410.15625 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-35d" transform="translate(468.75 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-35d" transform="translate(527.34375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-2a4" transform="translate(585.9375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-2df" transform="translate(644.53125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-2a3" transform="translate(703.125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-2a5" transform="translate(761.71875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-2a7" transform="translate(820.3125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-35d" transform="translate(878.90625 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-159" transform="translate(937.5 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-18d" transform="translate(996.09375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-187" transform="translate(1054.6875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-176" transform="translate(1113.28125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-18d" transform="translate(1171.875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-187" transform="translate(1230.46875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-35d" transform="translate(1289.0625 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-187" transform="translate(1347.65625 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-159" transform="translate(1406.25 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-13e" transform="translate(1464.84375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-104" transform="translate(1523.4375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-150" transform="translate(1582.03125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-17e" transform="translate(1640.625 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-2ee" transform="translate(1699.21875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-179" transform="translate(1757.8125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-104" transform="translate(1816.40625 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-178" transform="translate(1875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-18d" transform="translate(1933.59375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-104" transform="translate(1992.1875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-17e" transform="translate(2050.78125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-187" transform="translate(2109.375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-35d" transform="translate(2167.96875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-35d" transform="translate(2226.5625 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-4f0" transform="translate(2285.15625 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-35d" transform="translate(2343.75 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-35d" transform="translate(2402.34375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-2a6" transform="translate(2460.9375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-35d" transform="translate(2519.53125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-179" transform="translate(2578.125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-104" transform="translate(2636.71875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-176" transform="translate(2695.3125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-104" transform="translate(2753.90625 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-187" transform="translate(2812.5 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-12b" transform="translate(2871.09375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-187" transform="translate(2929.6875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-12b" transform="translate(2988.28125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-159" transform="translate(3046.875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-150" transform="translate(3105.46875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-17e" transform="translate(3164.0625 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-35d" transform="translate(3222.65625 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-de" transform="translate(3281.25 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-187" transform="translate(3339.84375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-35d" transform="translate(3398.4375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-1e" transform="translate(3457.03125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-2a4" transform="translate(3515.625 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-35d" transform="translate(3574.21875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-de" transform="translate(3632.8125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-150" transform="translate(3691.40625 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-100" transform="translate(3750 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-35d" transform="translate(3808.59375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-1e" transform="translate(3867.1875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-2a7" transform="translate(3925.78125 0)"/>
+    </g>
+   </g>
+   <g id="text_41">
+    <!-- Short coding prompts; deterministic sampling; forced length. This is a speed test, not a coding score. -->
+    <g style="fill: #9cabb3" transform="translate(34.56 476.853477) scale(0.11 -0.11)">
+     <defs>
+      <path id="CascadiaMono-Roman-2e1" d="M 1875 2450
+Q 1684 2450 1548 2586
+Q 1413 2722 1413 2913
+Q 1413 3106 1548 3240
+Q 1684 3375 1875 3375
+Q 2069 3375 2203 3240
+Q 2338 3106 2338 2913
+Q 2338 2722 2203 2586
+Q 2069 2450 1875 2450
+z
+M 1288 -1363
+L 1538 794
+L 2263 794
+L 1888 -1363
+L 1288 -1363
+z
+" transform="scale(0.015625)"/>
+     </defs>
+     <use xlink:href="#CascadiaMono-Roman-9a"/>
+     <use xlink:href="#CascadiaMono-Roman-126" transform="translate(58.59375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-159" transform="translate(117.1875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-179" transform="translate(175.78125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-187" transform="translate(234.375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-35d" transform="translate(292.96875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-fa" transform="translate(351.5625 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-159" transform="translate(410.15625 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-100" transform="translate(468.75 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-12b" transform="translate(527.34375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-150" transform="translate(585.9375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-11c" transform="translate(644.53125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-35d" transform="translate(703.125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-176" transform="translate(761.71875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-179" transform="translate(820.3125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-159" transform="translate(878.90625 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-14f" transform="translate(937.5 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-176" transform="translate(996.09375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-187" transform="translate(1054.6875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-17e" transform="translate(1113.28125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-2e1" transform="translate(1171.875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-35d" transform="translate(1230.46875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-100" transform="translate(1289.0625 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-104" transform="translate(1347.65625 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-187" transform="translate(1406.25 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-104" transform="translate(1464.84375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-179" transform="translate(1523.4375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-14f" transform="translate(1582.03125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-12b" transform="translate(1640.625 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-150" transform="translate(1699.21875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-12b" transform="translate(1757.8125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-17e" transform="translate(1816.40625 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-187" transform="translate(1875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-12b" transform="translate(1933.59375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-fa" transform="translate(1992.1875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-35d" transform="translate(2050.78125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-17e" transform="translate(2109.375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-de" transform="translate(2167.96875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-14f" transform="translate(2226.5625 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-176" transform="translate(2285.15625 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-143" transform="translate(2343.75 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-12b" transform="translate(2402.34375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-150" transform="translate(2460.9375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-11c" transform="translate(2519.53125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-2e1" transform="translate(2578.125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-35d" transform="translate(2636.71875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-11b" transform="translate(2695.3125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-159" transform="translate(2753.90625 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-179" transform="translate(2812.5 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-fa" transform="translate(2871.09375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-104" transform="translate(2929.6875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-100" transform="translate(2988.28125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-35d" transform="translate(3046.875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-143" transform="translate(3105.46875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-104" transform="translate(3164.0625 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-150" transform="translate(3222.65625 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-11c" transform="translate(3281.25 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-187" transform="translate(3339.84375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-126" transform="translate(3398.4375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-2de" transform="translate(3457.03125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-35d" transform="translate(3515.625 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-a3" transform="translate(3574.21875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-126" transform="translate(3632.8125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-12b" transform="translate(3691.40625 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-17e" transform="translate(3750 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-35d" transform="translate(3808.59375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-12b" transform="translate(3867.1875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-17e" transform="translate(3925.78125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-35d" transform="translate(3984.375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-de" transform="translate(4042.96875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-35d" transform="translate(4101.5625 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-17e" transform="translate(4160.15625 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-176" transform="translate(4218.75 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-104" transform="translate(4277.34375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-104" transform="translate(4335.9375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-100" transform="translate(4394.53125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-35d" transform="translate(4453.125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-187" transform="translate(4511.71875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-104" transform="translate(4570.3125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-17e" transform="translate(4628.90625 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-187" transform="translate(4687.5 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-2df" transform="translate(4746.09375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-35d" transform="translate(4804.6875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-150" transform="translate(4863.28125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-159" transform="translate(4921.875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-187" transform="translate(4980.46875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-35d" transform="translate(5039.0625 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-de" transform="translate(5097.65625 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-35d" transform="translate(5156.25 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-fa" transform="translate(5214.84375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-159" transform="translate(5273.4375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-100" transform="translate(5332.03125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-12b" transform="translate(5390.625 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-150" transform="translate(5449.21875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-11c" transform="translate(5507.8125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-35d" transform="translate(5566.40625 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-17e" transform="translate(5625 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-fa" transform="translate(5683.59375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-159" transform="translate(5742.1875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-179" transform="translate(5800.78125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-104" transform="translate(5859.375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-2de" transform="translate(5917.96875 0)"/>
+    </g>
+   </g>
+   <g id="text_42">
+    <!-- 02 / HOTEL LIGHTS -->
+    <g style="fill: #62e5ef" transform="translate(34.56 518.160234) scale(0.18 -0.18)">
+     <use xlink:href="#CascadiaMono-Roman-2a3"/>
+     <use xlink:href="#CascadiaMono-Roman-2a5" transform="translate(58.59375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-35d" transform="translate(117.1875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-2ee" transform="translate(175.78125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-35d" transform="translate(234.375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-47" transform="translate(292.96875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-75" transform="translate(351.5625 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-a3" transform="translate(410.15625 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-29" transform="translate(468.75 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-62" transform="translate(527.34375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-35d" transform="translate(585.9375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-62" transform="translate(644.53125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-4c" transform="translate(703.125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-40" transform="translate(761.71875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-47" transform="translate(820.3125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-a3" transform="translate(878.90625 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-9a" transform="translate(937.5 0)"/>
+    </g>
+   </g>
+   <g id="text_43">
+    <!-- Configuration -->
+    <g style="fill: #2dff86" transform="translate(47.52 557.453516) scale(0.14 -0.14)">
+     <use xlink:href="#CascadiaMono-Roman-1e"/>
+     <use xlink:href="#CascadiaMono-Roman-159" transform="translate(58.59375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-150" transform="translate(117.1875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-11b" transform="translate(175.78125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-12b" transform="translate(234.375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-11c" transform="translate(292.96875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-18d" transform="translate(351.5625 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-179" transform="translate(410.15625 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-de" transform="translate(468.75 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-187" transform="translate(527.34375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-12b" transform="translate(585.9375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-159" transform="translate(644.53125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-150" transform="translate(703.125 0)"/>
+    </g>
+   </g>
+   <g id="text_44">
+    <!-- Correct -->
+    <g style="fill: #2dff86" transform="translate(441.449062 557.453516) scale(0.14 -0.14)">
+     <use xlink:href="#CascadiaMono-Roman-1e"/>
+     <use xlink:href="#CascadiaMono-Roman-159" transform="translate(58.59375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-179" transform="translate(117.1875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-179" transform="translate(175.78125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-104" transform="translate(234.375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-fa" transform="translate(292.96875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-187" transform="translate(351.5625 0)"/>
+    </g>
+   </g>
+   <g id="text_45">
+    <!-- Accuracy -->
+    <g style="fill: #2dff86" transform="translate(617.3475 557.453516) scale(0.14 -0.14)">
+     <use xlink:href="#CascadiaMono-Roman-1"/>
+     <use xlink:href="#CascadiaMono-Roman-fa" transform="translate(58.59375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-fa" transform="translate(117.1875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-18d" transform="translate(175.78125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-179" transform="translate(234.375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-de" transform="translate(292.96875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-fa" transform="translate(351.5625 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-1aa" transform="translate(410.15625 0)"/>
+    </g>
+   </g>
+   <g id="text_46">
+    <!-- tok/s / req -->
+    <g style="fill: #2dff86" transform="translate(792.242813 557.453516) scale(0.14 -0.14)">
+     <use xlink:href="#CascadiaMono-Roman-187"/>
+     <use xlink:href="#CascadiaMono-Roman-159" transform="translate(58.59375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-13e" transform="translate(117.1875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-2ee" transform="translate(175.78125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-17e" transform="translate(234.375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-35d" transform="translate(292.96875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-2ee" transform="translate(351.5625 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-35d" transform="translate(410.15625 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-179" transform="translate(468.75 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-104" transform="translate(527.34375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-178" transform="translate(585.9375 0)"/>
+    </g>
+   </g>
+   <g id="text_47">
+    <!-- Avg time / req -->
+    <g style="fill: #2dff86" transform="translate(968.578125 557.453516) scale(0.14 -0.14)">
+     <defs>
+      <path id="CascadiaMono-Roman-1a1" d="M 1434 0
+L 250 3313
+L 956 3313
+L 1847 563
+L 1903 563
+L 2794 3313
+L 3500 3313
+L 2316 0
+L 1434 0
+z
+" transform="scale(0.015625)"/>
+     </defs>
+     <use xlink:href="#CascadiaMono-Roman-1"/>
+     <use xlink:href="#CascadiaMono-Roman-1a1" transform="translate(58.59375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-11c" transform="translate(117.1875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-35d" transform="translate(175.78125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-187" transform="translate(234.375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-12b" transform="translate(292.96875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-14f" transform="translate(351.5625 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-104" transform="translate(410.15625 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-35d" transform="translate(468.75 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-2ee" transform="translate(527.34375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-35d" transform="translate(585.9375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-179" transform="translate(644.53125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-104" transform="translate(703.125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-178" transform="translate(761.71875 0)"/>
+    </g>
+   </g>
+   <g id="text_48">
+    <!-- Flare / ONE Spark -->
+    <g style="fill: #62e5ef" transform="translate(47.52 595.613516) scale(0.14 -0.14)">
+     <use xlink:href="#CascadiaMono-Roman-3f"/>
+     <use xlink:href="#CascadiaMono-Roman-143" transform="translate(58.59375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-de" transform="translate(117.1875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-179" transform="translate(175.78125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-104" transform="translate(234.375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-35d" transform="translate(292.96875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-2ee" transform="translate(351.5625 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-35d" transform="translate(410.15625 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-75" transform="translate(468.75 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-6d" transform="translate(527.34375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-29" transform="translate(585.9375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-35d" transform="translate(644.53125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-9a" transform="translate(703.125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-176" transform="translate(761.71875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-de" transform="translate(820.3125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-179" transform="translate(878.90625 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-13e" transform="translate(937.5 0)"/>
+    </g>
+   </g>
+   <g id="text_49">
+    <!-- 4/8 -->
+    <g style="fill: #edf3f5" transform="translate(457.855312 595.613516) scale(0.14 -0.14)">
+     <use xlink:href="#CascadiaMono-Roman-2a7"/>
+     <use xlink:href="#CascadiaMono-Roman-2ee" transform="translate(58.59375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-2ab" transform="translate(117.1875 0)"/>
+    </g>
+   </g>
+   <g id="text_50">
+    <!-- 50.0% -->
+    <g style="fill: #edf3f5" transform="translate(629.652187 595.613516) scale(0.14 -0.14)">
+     <use xlink:href="#CascadiaMono-Roman-2a8"/>
+     <use xlink:href="#CascadiaMono-Roman-2a3" transform="translate(58.59375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-2de" transform="translate(117.1875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-2a3" transform="translate(175.78125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-3a1" transform="translate(234.375 0)"/>
+    </g>
+   </g>
+   <g id="text_51">
+    <!-- 24.7 -->
+    <g style="fill: #edf3f5" transform="translate(820.95375 595.613516) scale(0.14 -0.14)">
+     <use xlink:href="#CascadiaMono-Roman-2a5"/>
+     <use xlink:href="#CascadiaMono-Roman-2a7" transform="translate(58.59375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-2de" transform="translate(117.1875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-2aa" transform="translate(175.78125 0)"/>
+    </g>
+   </g>
+   <g id="text_52">
+    <!-- 883 s -->
+    <g style="fill: #edf3f5" transform="translate(1005.492188 595.613516) scale(0.14 -0.14)">
+     <use xlink:href="#CascadiaMono-Roman-2ab"/>
+     <use xlink:href="#CascadiaMono-Roman-2ab" transform="translate(58.59375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-2a6" transform="translate(117.1875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-35d" transform="translate(175.78125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-17e" transform="translate(234.375 0)"/>
+    </g>
+   </g>
+   <g id="text_53">
+    <!-- Oct 7 / baseline -->
+    <g style="fill: #62e5ef" transform="translate(47.52 633.773516) scale(0.14 -0.14)">
+     <use xlink:href="#CascadiaMono-Roman-75"/>
+     <use xlink:href="#CascadiaMono-Roman-fa" transform="translate(58.59375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-187" transform="translate(117.1875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-35d" transform="translate(175.78125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-2aa" transform="translate(234.375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-35d" transform="translate(292.96875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-2ee" transform="translate(351.5625 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-35d" transform="translate(410.15625 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-f9" transform="translate(468.75 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-de" transform="translate(527.34375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-17e" transform="translate(585.9375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-104" transform="translate(644.53125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-143" transform="translate(703.125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-12b" transform="translate(761.71875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-150" transform="translate(820.3125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-104" transform="translate(878.90625 0)"/>
+    </g>
+   </g>
+   <g id="text_54">
+    <!-- 7/8 -->
+    <g style="fill: #edf3f5" transform="translate(457.855312 633.773516) scale(0.14 -0.14)">
+     <use xlink:href="#CascadiaMono-Roman-2aa"/>
+     <use xlink:href="#CascadiaMono-Roman-2ee" transform="translate(58.59375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-2ab" transform="translate(117.1875 0)"/>
+    </g>
+   </g>
+   <g id="text_55">
+    <!-- 87.5% -->
+    <g style="fill: #edf3f5" transform="translate(629.652187 633.773516) scale(0.14 -0.14)">
+     <use xlink:href="#CascadiaMono-Roman-2ab"/>
+     <use xlink:href="#CascadiaMono-Roman-2aa" transform="translate(58.59375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-2de" transform="translate(117.1875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-2a8" transform="translate(175.78125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-3a1" transform="translate(234.375 0)"/>
+    </g>
+   </g>
+   <g id="text_56">
+    <!-- 45.6 -->
+    <g style="fill: #edf3f5" transform="translate(820.95375 633.773516) scale(0.14 -0.14)">
+     <use xlink:href="#CascadiaMono-Roman-2a7"/>
+     <use xlink:href="#CascadiaMono-Roman-2a8" transform="translate(58.59375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-2de" transform="translate(117.1875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-2a9" transform="translate(175.78125 0)"/>
+    </g>
+   </g>
+   <g id="text_57">
+    <!-- 465 s -->
+    <g style="fill: #edf3f5" transform="translate(1005.492188 633.773516) scale(0.14 -0.14)">
+     <use xlink:href="#CascadiaMono-Roman-2a7"/>
+     <use xlink:href="#CascadiaMono-Roman-2a9" transform="translate(58.59375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-2a8" transform="translate(117.1875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-35d" transform="translate(175.78125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-17e" transform="translate(234.375 0)"/>
+    </g>
+   </g>
+   <g id="text_58">
+    <!-- Oct 16.2 / baseline -->
+    <g style="fill: #62e5ef" transform="translate(47.52 671.933516) scale(0.14 -0.14)">
+     <use xlink:href="#CascadiaMono-Roman-75"/>
+     <use xlink:href="#CascadiaMono-Roman-fa" transform="translate(58.59375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-187" transform="translate(117.1875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-35d" transform="translate(175.78125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-2a4" transform="translate(234.375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-2a9" transform="translate(292.96875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-2de" transform="translate(351.5625 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-2a5" transform="translate(410.15625 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-35d" transform="translate(468.75 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-2ee" transform="translate(527.34375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-35d" transform="translate(585.9375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-f9" transform="translate(644.53125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-de" transform="translate(703.125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-17e" transform="translate(761.71875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-104" transform="translate(820.3125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-143" transform="translate(878.90625 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-12b" transform="translate(937.5 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-150" transform="translate(996.09375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-104" transform="translate(1054.6875 0)"/>
+    </g>
+   </g>
+   <g id="text_59">
+    <!-- 7/8 -->
+    <g style="fill: #edf3f5" transform="translate(457.855312 671.933516) scale(0.14 -0.14)">
+     <use xlink:href="#CascadiaMono-Roman-2aa"/>
+     <use xlink:href="#CascadiaMono-Roman-2ee" transform="translate(58.59375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-2ab" transform="translate(117.1875 0)"/>
+    </g>
+   </g>
+   <g id="text_60">
+    <!-- 87.5% -->
+    <g style="fill: #edf3f5" transform="translate(629.652187 671.933516) scale(0.14 -0.14)">
+     <use xlink:href="#CascadiaMono-Roman-2ab"/>
+     <use xlink:href="#CascadiaMono-Roman-2aa" transform="translate(58.59375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-2de" transform="translate(117.1875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-2a8" transform="translate(175.78125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-3a1" transform="translate(234.375 0)"/>
+    </g>
+   </g>
+   <g id="text_61">
+    <!-- 48.9 -->
+    <g style="fill: #edf3f5" transform="translate(820.95375 671.933516) scale(0.14 -0.14)">
+     <use xlink:href="#CascadiaMono-Roman-2a7"/>
+     <use xlink:href="#CascadiaMono-Roman-2ab" transform="translate(58.59375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-2de" transform="translate(117.1875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-2ac" transform="translate(175.78125 0)"/>
+    </g>
+   </g>
+   <g id="text_62">
+    <!-- 456 s -->
+    <g style="fill: #edf3f5" transform="translate(1005.492188 671.933516) scale(0.14 -0.14)">
+     <use xlink:href="#CascadiaMono-Roman-2a7"/>
+     <use xlink:href="#CascadiaMono-Roman-2a8" transform="translate(58.59375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-2a9" transform="translate(117.1875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-35d" transform="translate(175.78125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-17e" transform="translate(234.375 0)"/>
+    </g>
+   </g>
+   <g id="text_63">
+    <!-- Oct 16.2 / tuned -->
+    <g style="fill: #62e5ef" transform="translate(47.52 710.093516) scale(0.14 -0.14)">
+     <use xlink:href="#CascadiaMono-Roman-75"/>
+     <use xlink:href="#CascadiaMono-Roman-fa" transform="translate(58.59375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-187" transform="translate(117.1875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-35d" transform="translate(175.78125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-2a4" transform="translate(234.375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-2a9" transform="translate(292.96875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-2de" transform="translate(351.5625 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-2a5" transform="translate(410.15625 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-35d" transform="translate(468.75 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-2ee" transform="translate(527.34375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-35d" transform="translate(585.9375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-187" transform="translate(644.53125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-18d" transform="translate(703.125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-150" transform="translate(761.71875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-104" transform="translate(820.3125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-100" transform="translate(878.90625 0)"/>
+    </g>
+   </g>
+   <g id="text_64">
+    <!-- 8/8 -->
+    <g style="fill: #edf3f5" transform="translate(457.855312 710.093516) scale(0.14 -0.14)">
+     <use xlink:href="#CascadiaMono-Roman-2ab"/>
+     <use xlink:href="#CascadiaMono-Roman-2ee" transform="translate(58.59375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-2ab" transform="translate(117.1875 0)"/>
+    </g>
+   </g>
+   <g id="text_65">
+    <!-- 100.0% -->
+    <g style="fill: #edf3f5" transform="translate(625.550625 710.093516) scale(0.14 -0.14)">
+     <use xlink:href="#CascadiaMono-Roman-2a4"/>
+     <use xlink:href="#CascadiaMono-Roman-2a3" transform="translate(58.59375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-2a3" transform="translate(117.1875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-2de" transform="translate(175.78125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-2a3" transform="translate(234.375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-3a1" transform="translate(292.96875 0)"/>
+    </g>
+   </g>
+   <g id="text_66">
+    <!-- 54.3 -->
+    <g style="fill: #edf3f5" transform="translate(820.95375 710.093516) scale(0.14 -0.14)">
+     <use xlink:href="#CascadiaMono-Roman-2a8"/>
+     <use xlink:href="#CascadiaMono-Roman-2a7" transform="translate(58.59375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-2de" transform="translate(117.1875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-2a6" transform="translate(175.78125 0)"/>
+    </g>
+   </g>
+   <g id="text_67">
+    <!-- 341 s -->
+    <g style="fill: #edf3f5" transform="translate(1005.492188 710.093516) scale(0.14 -0.14)">
+     <use xlink:href="#CascadiaMono-Roman-2a6"/>
+     <use xlink:href="#CascadiaMono-Roman-2a7" transform="translate(58.59375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-2a4" transform="translate(117.1875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-35d" transform="translate(175.78125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-17e" transform="translate(234.375 0)"/>
+    </g>
+   </g>
+   <g id="text_68">
+    <!-- 8 attempts  |  concurrency 4  |  medium reasoning  |  strict final-answer scoring -->
+    <g style="fill: #9cabb3" transform="translate(34.56 749.360156) scale(0.12 -0.12)">
+     <use xlink:href="#CascadiaMono-Roman-2ab"/>
+     <use xlink:href="#CascadiaMono-Roman-35d" transform="translate(58.59375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-de" transform="translate(117.1875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-187" transform="translate(175.78125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-187" transform="translate(234.375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-104" transform="translate(292.96875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-14f" transform="translate(351.5625 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-176" transform="translate(410.15625 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-187" transform="translate(468.75 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-17e" transform="translate(527.34375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-35d" transform="translate(585.9375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-35d" transform="translate(644.53125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-4f0" transform="translate(703.125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-35d" transform="translate(761.71875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-35d" transform="translate(820.3125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-fa" transform="translate(878.90625 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-159" transform="translate(937.5 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-150" transform="translate(996.09375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-fa" transform="translate(1054.6875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-18d" transform="translate(1113.28125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-179" transform="translate(1171.875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-179" transform="translate(1230.46875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-104" transform="translate(1289.0625 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-150" transform="translate(1347.65625 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-fa" transform="translate(1406.25 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-1aa" transform="translate(1464.84375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-35d" transform="translate(1523.4375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-2a7" transform="translate(1582.03125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-35d" transform="translate(1640.625 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-35d" transform="translate(1699.21875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-4f0" transform="translate(1757.8125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-35d" transform="translate(1816.40625 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-35d" transform="translate(1875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-14f" transform="translate(1933.59375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-104" transform="translate(1992.1875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-100" transform="translate(2050.78125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-12b" transform="translate(2109.375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-18d" transform="translate(2167.96875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-14f" transform="translate(2226.5625 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-35d" transform="translate(2285.15625 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-179" transform="translate(2343.75 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-104" transform="translate(2402.34375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-de" transform="translate(2460.9375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-17e" transform="translate(2519.53125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-159" transform="translate(2578.125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-150" transform="translate(2636.71875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-12b" transform="translate(2695.3125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-150" transform="translate(2753.90625 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-11c" transform="translate(2812.5 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-35d" transform="translate(2871.09375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-35d" transform="translate(2929.6875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-4f0" transform="translate(2988.28125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-35d" transform="translate(3046.875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-35d" transform="translate(3105.46875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-17e" transform="translate(3164.0625 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-187" transform="translate(3222.65625 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-179" transform="translate(3281.25 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-12b" transform="translate(3339.84375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-fa" transform="translate(3398.4375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-187" transform="translate(3457.03125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-35d" transform="translate(3515.625 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-11b" transform="translate(3574.21875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-12b" transform="translate(3632.8125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-150" transform="translate(3691.40625 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-de" transform="translate(3750 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-143" transform="translate(3808.59375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-2fd" transform="translate(3867.1875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-de" transform="translate(3925.78125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-150" transform="translate(3984.375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-17e" transform="translate(4042.96875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-1a4" transform="translate(4101.5625 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-104" transform="translate(4160.15625 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-179" transform="translate(4218.75 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-35d" transform="translate(4277.34375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-17e" transform="translate(4335.9375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-fa" transform="translate(4394.53125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-159" transform="translate(4453.125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-179" transform="translate(4511.71875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-12b" transform="translate(4570.3125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-150" transform="translate(4628.90625 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-11c" transform="translate(4687.5 0)"/>
+    </g>
+   </g>
+   <g id="text_69">
+    <!-- Oct 16.2 baseline: one unparseable final answer; zero errors, stalls, or truncations. -->
+    <g style="fill: #9cabb3" transform="translate(34.56 767.013477) scale(0.11 -0.11)">
+     <defs>
+      <path id="CascadiaMono-Roman-2e0" d="M 1875 2450
+Q 1684 2450 1548 2586
+Q 1413 2722 1413 2913
+Q 1413 3106 1548 3240
+Q 1684 3375 1875 3375
+Q 2069 3375 2203 3240
+Q 2338 3106 2338 2913
+Q 2338 2722 2203 2586
+Q 2069 2450 1875 2450
+z
+M 1875 -63
+Q 1684 -63 1548 73
+Q 1413 209 1413 400
+Q 1413 594 1548 728
+Q 1684 863 1875 863
+Q 2069 863 2203 728
+Q 2338 594 2338 400
+Q 2338 209 2203 73
+Q 2069 -63 1875 -63
+z
+" transform="scale(0.015625)"/>
+      <path id="CascadiaMono-Roman-1b3" d="M 956 169
+L 500 550
+L 2719 3131
+L 3175 2763
+L 956 169
+z
+M 500 0
+L 500 550
+L 3238 550
+L 3238 0
+L 500 0
+z
+M 500 2763
+L 500 3313
+L 3175 3313
+L 3175 2763
+L 500 2763
+z
+" transform="scale(0.015625)"/>
+     </defs>
+     <use xlink:href="#CascadiaMono-Roman-75"/>
+     <use xlink:href="#CascadiaMono-Roman-fa" transform="translate(58.59375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-187" transform="translate(117.1875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-35d" transform="translate(175.78125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-2a4" transform="translate(234.375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-2a9" transform="translate(292.96875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-2de" transform="translate(351.5625 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-2a5" transform="translate(410.15625 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-35d" transform="translate(468.75 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-f9" transform="translate(527.34375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-de" transform="translate(585.9375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-17e" transform="translate(644.53125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-104" transform="translate(703.125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-143" transform="translate(761.71875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-12b" transform="translate(820.3125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-150" transform="translate(878.90625 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-104" transform="translate(937.5 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-2e0" transform="translate(996.09375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-35d" transform="translate(1054.6875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-159" transform="translate(1113.28125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-150" transform="translate(1171.875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-104" transform="translate(1230.46875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-35d" transform="translate(1289.0625 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-18d" transform="translate(1347.65625 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-150" transform="translate(1406.25 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-176" transform="translate(1464.84375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-de" transform="translate(1523.4375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-179" transform="translate(1582.03125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-17e" transform="translate(1640.625 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-104" transform="translate(1699.21875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-de" transform="translate(1757.8125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-f9" transform="translate(1816.40625 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-143" transform="translate(1875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-104" transform="translate(1933.59375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-35d" transform="translate(1992.1875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-11b" transform="translate(2050.78125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-12b" transform="translate(2109.375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-150" transform="translate(2167.96875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-de" transform="translate(2226.5625 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-143" transform="translate(2285.15625 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-35d" transform="translate(2343.75 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-de" transform="translate(2402.34375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-150" transform="translate(2460.9375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-17e" transform="translate(2519.53125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-1a4" transform="translate(2578.125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-104" transform="translate(2636.71875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-179" transform="translate(2695.3125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-2e1" transform="translate(2753.90625 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-35d" transform="translate(2812.5 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-1b3" transform="translate(2871.09375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-104" transform="translate(2929.6875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-179" transform="translate(2988.28125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-159" transform="translate(3046.875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-35d" transform="translate(3105.46875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-104" transform="translate(3164.0625 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-179" transform="translate(3222.65625 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-179" transform="translate(3281.25 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-159" transform="translate(3339.84375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-179" transform="translate(3398.4375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-17e" transform="translate(3457.03125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-2df" transform="translate(3515.625 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-35d" transform="translate(3574.21875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-17e" transform="translate(3632.8125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-187" transform="translate(3691.40625 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-de" transform="translate(3750 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-143" transform="translate(3808.59375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-143" transform="translate(3867.1875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-17e" transform="translate(3925.78125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-2df" transform="translate(3984.375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-35d" transform="translate(4042.96875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-159" transform="translate(4101.5625 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-179" transform="translate(4160.15625 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-35d" transform="translate(4218.75 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-187" transform="translate(4277.34375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-179" transform="translate(4335.9375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-18d" transform="translate(4394.53125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-150" transform="translate(4453.125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-fa" transform="translate(4511.71875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-de" transform="translate(4570.3125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-187" transform="translate(4628.90625 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-12b" transform="translate(4687.5 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-159" transform="translate(4746.09375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-150" transform="translate(4804.6875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-17e" transform="translate(4863.28125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-2de" transform="translate(4921.875 0)"/>
+    </g>
+   </g>
+   <g id="text_70">
+    <!-- 03 / UNCACHED PREFILL -->
+    <g style="fill: #62e5ef" transform="translate(34.56 809.760234) scale(0.18 -0.18)">
+     <defs>
+      <path id="CascadiaMono-Roman-aa" d="M 1863 -63
+Q 438 -63 438 1425
+L 438 4438
+L 1063 4438
+L 1063 1425
+Q 1063 981 1258 756
+Q 1453 531 1875 531
+Q 2688 531 2688 1425
+L 2688 4438
+L 3313 4438
+L 3313 1425
+Q 3313 681 2944 309
+Q 2575 -63 1863 -63
+z
+" transform="scale(0.015625)"/>
+     </defs>
+     <use xlink:href="#CascadiaMono-Roman-2a3"/>
+     <use xlink:href="#CascadiaMono-Roman-2a6" transform="translate(58.59375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-35d" transform="translate(117.1875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-2ee" transform="translate(175.78125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-35d" transform="translate(234.375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-aa" transform="translate(292.96875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-6d" transform="translate(351.5625 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-1e" transform="translate(410.15625 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-1" transform="translate(468.75 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-1e" transform="translate(527.34375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-47" transform="translate(585.9375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-29" transform="translate(644.53125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-25" transform="translate(703.125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-35d" transform="translate(761.71875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-92" transform="translate(820.3125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-95" transform="translate(878.90625 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-29" transform="translate(937.5 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-3f" transform="translate(996.09375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-4c" transform="translate(1054.6875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-62" transform="translate(1113.28125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-62" transform="translate(1171.875 0)"/>
+    </g>
+   </g>
+   <g id="text_71">
+    <!-- Prompt length -->
+    <g style="fill: #2dff86" transform="translate(47.52 849.053516) scale(0.14 -0.14)">
+     <use xlink:href="#CascadiaMono-Roman-92"/>
+     <use xlink:href="#CascadiaMono-Roman-179" transform="translate(58.59375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-159" transform="translate(117.1875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-14f" transform="translate(175.78125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-176" transform="translate(234.375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-187" transform="translate(292.96875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-35d" transform="translate(351.5625 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-143" transform="translate(410.15625 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-104" transform="translate(468.75 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-150" transform="translate(527.34375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-11c" transform="translate(585.9375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-187" transform="translate(644.53125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-126" transform="translate(703.125 0)"/>
+    </g>
+   </g>
+   <g id="text_72">
+    <!-- One-shot TTFT -->
+    <g style="fill: #2dff86" transform="translate(416.839687 849.053516) scale(0.14 -0.14)">
+     <use xlink:href="#CascadiaMono-Roman-75"/>
+     <use xlink:href="#CascadiaMono-Roman-150" transform="translate(58.59375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-104" transform="translate(117.1875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-2fd" transform="translate(175.78125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-17e" transform="translate(234.375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-126" transform="translate(292.96875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-159" transform="translate(351.5625 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-187" transform="translate(410.15625 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-35d" transform="translate(468.75 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-a3" transform="translate(527.34375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-a3" transform="translate(585.9375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-3f" transform="translate(644.53125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-a3" transform="translate(703.125 0)"/>
+    </g>
+   </g>
+   <g id="text_73">
+    <!-- One-shot tok/s -->
+    <g style="fill: #2dff86" transform="translate(592.738125 849.053516) scale(0.14 -0.14)">
+     <use xlink:href="#CascadiaMono-Roman-75"/>
+     <use xlink:href="#CascadiaMono-Roman-150" transform="translate(58.59375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-104" transform="translate(117.1875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-2fd" transform="translate(175.78125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-17e" transform="translate(234.375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-126" transform="translate(292.96875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-159" transform="translate(351.5625 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-187" transform="translate(410.15625 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-35d" transform="translate(468.75 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-187" transform="translate(527.34375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-159" transform="translate(585.9375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-13e" transform="translate(644.53125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-2ee" transform="translate(703.125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-17e" transform="translate(761.71875 0)"/>
+    </g>
+   </g>
+   <g id="text_74">
+    <!-- Two-shot TTFT -->
+    <g style="fill: #2dff86" transform="translate(784.039688 849.053516) scale(0.14 -0.14)">
+     <use xlink:href="#CascadiaMono-Roman-a3"/>
+     <use xlink:href="#CascadiaMono-Roman-1a4" transform="translate(58.59375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-159" transform="translate(117.1875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-2fd" transform="translate(175.78125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-17e" transform="translate(234.375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-126" transform="translate(292.96875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-159" transform="translate(351.5625 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-187" transform="translate(410.15625 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-35d" transform="translate(468.75 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-a3" transform="translate(527.34375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-a3" transform="translate(585.9375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-3f" transform="translate(644.53125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-a3" transform="translate(703.125 0)"/>
+    </g>
+   </g>
+   <g id="text_75">
+    <!-- Two-shot tok/s -->
+    <g style="fill: #2dff86" transform="translate(968.578125 849.053516) scale(0.14 -0.14)">
+     <use xlink:href="#CascadiaMono-Roman-a3"/>
+     <use xlink:href="#CascadiaMono-Roman-1a4" transform="translate(58.59375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-159" transform="translate(117.1875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-2fd" transform="translate(175.78125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-17e" transform="translate(234.375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-126" transform="translate(292.96875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-159" transform="translate(351.5625 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-187" transform="translate(410.15625 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-35d" transform="translate(468.75 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-187" transform="translate(527.34375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-159" transform="translate(585.9375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-13e" transform="translate(644.53125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-2ee" transform="translate(703.125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-17e" transform="translate(761.71875 0)"/>
+    </g>
+   </g>
+   <g id="text_76">
+    <!-- 8K / 8,192 tokens -->
+    <g style="fill: #62e5ef" transform="translate(47.52 887.213516) scale(0.14 -0.14)">
+     <use xlink:href="#CascadiaMono-Roman-2ab"/>
+     <use xlink:href="#CascadiaMono-Roman-5d" transform="translate(58.59375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-35d" transform="translate(117.1875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-2ee" transform="translate(175.78125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-35d" transform="translate(234.375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-2ab" transform="translate(292.96875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-2df" transform="translate(351.5625 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-2a4" transform="translate(410.15625 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-2ac" transform="translate(468.75 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-2a5" transform="translate(527.34375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-35d" transform="translate(585.9375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-187" transform="translate(644.53125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-159" transform="translate(703.125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-13e" transform="translate(761.71875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-104" transform="translate(820.3125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-150" transform="translate(878.90625 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-17e" transform="translate(937.5 0)"/>
+    </g>
+   </g>
+   <g id="text_77">
+    <!-- 2.62 s -->
+    <g style="fill: #edf3f5" transform="translate(445.550625 887.213516) scale(0.14 -0.14)">
+     <use xlink:href="#CascadiaMono-Roman-2a5"/>
+     <use xlink:href="#CascadiaMono-Roman-2de" transform="translate(58.59375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-2a9" transform="translate(117.1875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-2a5" transform="translate(175.78125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-35d" transform="translate(234.375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-17e" transform="translate(292.96875 0)"/>
+    </g>
+   </g>
+   <g id="text_78">
+    <!-- 3,126 -->
+    <g style="fill: #edf3f5" transform="translate(629.652187 887.213516) scale(0.14 -0.14)">
+     <use xlink:href="#CascadiaMono-Roman-2a6"/>
+     <use xlink:href="#CascadiaMono-Roman-2df" transform="translate(58.59375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-2a4" transform="translate(117.1875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-2a5" transform="translate(175.78125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-2a9" transform="translate(234.375 0)"/>
+    </g>
+   </g>
+   <g id="text_79">
+    <!-- 2.77 s -->
+    <g style="fill: #edf3f5" transform="translate(812.750625 887.213516) scale(0.14 -0.14)">
+     <use xlink:href="#CascadiaMono-Roman-2a5"/>
+     <use xlink:href="#CascadiaMono-Roman-2de" transform="translate(58.59375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-2aa" transform="translate(117.1875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-2aa" transform="translate(175.78125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-35d" transform="translate(234.375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-17e" transform="translate(292.96875 0)"/>
+    </g>
+   </g>
+   <g id="text_80">
+    <!-- 2,959 -->
+    <g style="fill: #edf3f5" transform="translate(1005.492188 887.213516) scale(0.14 -0.14)">
+     <use xlink:href="#CascadiaMono-Roman-2a5"/>
+     <use xlink:href="#CascadiaMono-Roman-2df" transform="translate(58.59375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-2ac" transform="translate(117.1875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-2a8" transform="translate(175.78125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-2ac" transform="translate(234.375 0)"/>
+    </g>
+   </g>
+   <g id="text_81">
+    <!-- 32K / 32,768 tokens -->
+    <g style="fill: #62e5ef" transform="translate(47.52 925.373516) scale(0.14 -0.14)">
+     <use xlink:href="#CascadiaMono-Roman-2a6"/>
+     <use xlink:href="#CascadiaMono-Roman-2a5" transform="translate(58.59375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-5d" transform="translate(117.1875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-35d" transform="translate(175.78125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-2ee" transform="translate(234.375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-35d" transform="translate(292.96875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-2a6" transform="translate(351.5625 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-2a5" transform="translate(410.15625 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-2df" transform="translate(468.75 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-2aa" transform="translate(527.34375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-2a9" transform="translate(585.9375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-2ab" transform="translate(644.53125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-35d" transform="translate(703.125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-187" transform="translate(761.71875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-159" transform="translate(820.3125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-13e" transform="translate(878.90625 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-104" transform="translate(937.5 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-150" transform="translate(996.09375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-17e" transform="translate(1054.6875 0)"/>
+    </g>
+   </g>
+   <g id="text_82">
+    <!-- 11.00 s -->
+    <g style="fill: #edf3f5" transform="translate(441.449062 925.373516) scale(0.14 -0.14)">
+     <use xlink:href="#CascadiaMono-Roman-2a4"/>
+     <use xlink:href="#CascadiaMono-Roman-2a4" transform="translate(58.59375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-2de" transform="translate(117.1875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-2a3" transform="translate(175.78125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-2a3" transform="translate(234.375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-35d" transform="translate(292.96875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-17e" transform="translate(351.5625 0)"/>
+    </g>
+   </g>
+   <g id="text_83">
+    <!-- 2,980 -->
+    <g style="fill: #edf3f5" transform="translate(629.652187 925.373516) scale(0.14 -0.14)">
+     <use xlink:href="#CascadiaMono-Roman-2a5"/>
+     <use xlink:href="#CascadiaMono-Roman-2df" transform="translate(58.59375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-2ac" transform="translate(117.1875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-2ab" transform="translate(175.78125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-2a3" transform="translate(234.375 0)"/>
+    </g>
+   </g>
+   <g id="text_84">
+    <!-- 11.02 s -->
+    <g style="fill: #edf3f5" transform="translate(808.649063 925.373516) scale(0.14 -0.14)">
+     <use xlink:href="#CascadiaMono-Roman-2a4"/>
+     <use xlink:href="#CascadiaMono-Roman-2a4" transform="translate(58.59375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-2de" transform="translate(117.1875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-2a3" transform="translate(175.78125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-2a5" transform="translate(234.375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-35d" transform="translate(292.96875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-17e" transform="translate(351.5625 0)"/>
+    </g>
+   </g>
+   <g id="text_85">
+    <!-- 2,974 -->
+    <g style="fill: #edf3f5" transform="translate(1005.492188 925.373516) scale(0.14 -0.14)">
+     <use xlink:href="#CascadiaMono-Roman-2a5"/>
+     <use xlink:href="#CascadiaMono-Roman-2df" transform="translate(58.59375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-2ac" transform="translate(117.1875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-2aa" transform="translate(175.78125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-2a7" transform="translate(234.375 0)"/>
+    </g>
+   </g>
+   <g id="text_86">
+    <!-- Median of 3 requests; exact token counts; zero cached prompt tokens; 1 output token. -->
+    <g style="fill: #9cabb3" transform="translate(34.56 964.640156) scale(0.12 -0.12)">
+     <use xlink:href="#CascadiaMono-Roman-6c"/>
+     <use xlink:href="#CascadiaMono-Roman-104" transform="translate(58.59375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-100" transform="translate(117.1875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-12b" transform="translate(175.78125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-de" transform="translate(234.375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-150" transform="translate(292.96875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-35d" transform="translate(351.5625 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-159" transform="translate(410.15625 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-11b" transform="translate(468.75 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-35d" transform="translate(527.34375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-2a6" transform="translate(585.9375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-35d" transform="translate(644.53125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-179" transform="translate(703.125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-104" transform="translate(761.71875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-178" transform="translate(820.3125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-18d" transform="translate(878.90625 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-104" transform="translate(937.5 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-17e" transform="translate(996.09375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-187" transform="translate(1054.6875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-17e" transform="translate(1113.28125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-2e1" transform="translate(1171.875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-35d" transform="translate(1230.46875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-104" transform="translate(1289.0625 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-1a9" transform="translate(1347.65625 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-de" transform="translate(1406.25 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-fa" transform="translate(1464.84375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-187" transform="translate(1523.4375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-35d" transform="translate(1582.03125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-187" transform="translate(1640.625 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-159" transform="translate(1699.21875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-13e" transform="translate(1757.8125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-104" transform="translate(1816.40625 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-150" transform="translate(1875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-35d" transform="translate(1933.59375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-fa" transform="translate(1992.1875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-159" transform="translate(2050.78125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-18d" transform="translate(2109.375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-150" transform="translate(2167.96875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-187" transform="translate(2226.5625 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-17e" transform="translate(2285.15625 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-2e1" transform="translate(2343.75 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-35d" transform="translate(2402.34375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-1b3" transform="translate(2460.9375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-104" transform="translate(2519.53125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-179" transform="translate(2578.125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-159" transform="translate(2636.71875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-35d" transform="translate(2695.3125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-fa" transform="translate(2753.90625 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-de" transform="translate(2812.5 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-fa" transform="translate(2871.09375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-126" transform="translate(2929.6875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-104" transform="translate(2988.28125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-100" transform="translate(3046.875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-35d" transform="translate(3105.46875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-176" transform="translate(3164.0625 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-179" transform="translate(3222.65625 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-159" transform="translate(3281.25 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-14f" transform="translate(3339.84375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-176" transform="translate(3398.4375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-187" transform="translate(3457.03125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-35d" transform="translate(3515.625 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-187" transform="translate(3574.21875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-159" transform="translate(3632.8125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-13e" transform="translate(3691.40625 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-104" transform="translate(3750 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-150" transform="translate(3808.59375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-17e" transform="translate(3867.1875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-2e1" transform="translate(3925.78125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-35d" transform="translate(3984.375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-2a4" transform="translate(4042.96875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-35d" transform="translate(4101.5625 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-159" transform="translate(4160.15625 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-18d" transform="translate(4218.75 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-187" transform="translate(4277.34375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-176" transform="translate(4335.9375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-18d" transform="translate(4394.53125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-187" transform="translate(4453.125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-35d" transform="translate(4511.71875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-187" transform="translate(4570.3125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-159" transform="translate(4628.90625 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-13e" transform="translate(4687.5 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-104" transform="translate(4746.09375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-150" transform="translate(4804.6875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-2de" transform="translate(4863.28125 0)"/>
+    </g>
+   </g>
+   <g id="text_87">
+    <!-- Effective rate = input tokens / TTFT. Both use autotuning. Two-shot activation confirmed in logs. -->
+    <g style="fill: #9cabb3" transform="translate(34.56 982.293477) scale(0.11 -0.11)">
+     <defs>
+      <path id="CascadiaMono-Roman-38b" d="M 313 2706
+L 313 3288
+L 3438 3288
+L 3438 2706
+L 313 2706
+z
+M 313 1144
+L 313 1725
+L 3438 1725
+L 3438 1144
+L 313 1144
+z
+" transform="scale(0.015625)"/>
+     </defs>
+     <use xlink:href="#CascadiaMono-Roman-29"/>
+     <use xlink:href="#CascadiaMono-Roman-11b" transform="translate(58.59375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-11b" transform="translate(117.1875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-104" transform="translate(175.78125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-fa" transform="translate(234.375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-187" transform="translate(292.96875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-12b" transform="translate(351.5625 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-1a1" transform="translate(410.15625 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-104" transform="translate(468.75 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-35d" transform="translate(527.34375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-179" transform="translate(585.9375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-de" transform="translate(644.53125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-187" transform="translate(703.125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-104" transform="translate(761.71875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-35d" transform="translate(820.3125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-38b" transform="translate(878.90625 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-35d" transform="translate(937.5 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-12b" transform="translate(996.09375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-150" transform="translate(1054.6875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-176" transform="translate(1113.28125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-18d" transform="translate(1171.875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-187" transform="translate(1230.46875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-35d" transform="translate(1289.0625 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-187" transform="translate(1347.65625 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-159" transform="translate(1406.25 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-13e" transform="translate(1464.84375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-104" transform="translate(1523.4375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-150" transform="translate(1582.03125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-17e" transform="translate(1640.625 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-35d" transform="translate(1699.21875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-2ee" transform="translate(1757.8125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-35d" transform="translate(1816.40625 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-a3" transform="translate(1875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-a3" transform="translate(1933.59375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-3f" transform="translate(1992.1875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-a3" transform="translate(2050.78125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-2de" transform="translate(2109.375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-35d" transform="translate(2167.96875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-1d" transform="translate(2226.5625 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-159" transform="translate(2285.15625 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-187" transform="translate(2343.75 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-126" transform="translate(2402.34375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-35d" transform="translate(2460.9375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-18d" transform="translate(2519.53125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-17e" transform="translate(2578.125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-104" transform="translate(2636.71875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-35d" transform="translate(2695.3125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-de" transform="translate(2753.90625 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-18d" transform="translate(2812.5 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-187" transform="translate(2871.09375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-159" transform="translate(2929.6875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-187" transform="translate(2988.28125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-18d" transform="translate(3046.875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-150" transform="translate(3105.46875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-12b" transform="translate(3164.0625 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-150" transform="translate(3222.65625 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-11c" transform="translate(3281.25 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-2de" transform="translate(3339.84375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-35d" transform="translate(3398.4375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-a3" transform="translate(3457.03125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-1a4" transform="translate(3515.625 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-159" transform="translate(3574.21875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-2fd" transform="translate(3632.8125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-17e" transform="translate(3691.40625 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-126" transform="translate(3750 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-159" transform="translate(3808.59375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-187" transform="translate(3867.1875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-35d" transform="translate(3925.78125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-de" transform="translate(3984.375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-fa" transform="translate(4042.96875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-187" transform="translate(4101.5625 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-12b" transform="translate(4160.15625 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-1a1" transform="translate(4218.75 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-de" transform="translate(4277.34375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-187" transform="translate(4335.9375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-12b" transform="translate(4394.53125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-159" transform="translate(4453.125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-150" transform="translate(4511.71875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-35d" transform="translate(4570.3125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-fa" transform="translate(4628.90625 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-159" transform="translate(4687.5 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-150" transform="translate(4746.09375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-11b" transform="translate(4804.6875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-12b" transform="translate(4863.28125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-179" transform="translate(4921.875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-14f" transform="translate(4980.46875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-104" transform="translate(5039.0625 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-100" transform="translate(5097.65625 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-35d" transform="translate(5156.25 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-12b" transform="translate(5214.84375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-150" transform="translate(5273.4375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-35d" transform="translate(5332.03125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-143" transform="translate(5390.625 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-159" transform="translate(5449.21875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-11c" transform="translate(5507.8125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-17e" transform="translate(5566.40625 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-2de" transform="translate(5625 0)"/>
+    </g>
+   </g>
+   <g id="text_88">
+    <!-- Two-shot: c637412 transport, 64 MiB capacity, direct constructor; no in-place routing patch. -->
+    <g style="fill: #9cabb3" transform="translate(34.56 1000.293477) scale(0.11 -0.11)">
+     <use xlink:href="#CascadiaMono-Roman-a3"/>
+     <use xlink:href="#CascadiaMono-Roman-1a4" transform="translate(58.59375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-159" transform="translate(117.1875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-2fd" transform="translate(175.78125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-17e" transform="translate(234.375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-126" transform="translate(292.96875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-159" transform="translate(351.5625 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-187" transform="translate(410.15625 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-2e0" transform="translate(468.75 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-35d" transform="translate(527.34375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-fa" transform="translate(585.9375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-2a9" transform="translate(644.53125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-2a6" transform="translate(703.125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-2aa" transform="translate(761.71875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-2a7" transform="translate(820.3125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-2a4" transform="translate(878.90625 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-2a5" transform="translate(937.5 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-35d" transform="translate(996.09375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-187" transform="translate(1054.6875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-179" transform="translate(1113.28125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-de" transform="translate(1171.875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-150" transform="translate(1230.46875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-17e" transform="translate(1289.0625 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-176" transform="translate(1347.65625 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-159" transform="translate(1406.25 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-179" transform="translate(1464.84375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-187" transform="translate(1523.4375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-2df" transform="translate(1582.03125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-35d" transform="translate(1640.625 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-2a9" transform="translate(1699.21875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-2a7" transform="translate(1757.8125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-35d" transform="translate(1816.40625 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-6c" transform="translate(1875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-12b" transform="translate(1933.59375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-1d" transform="translate(1992.1875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-35d" transform="translate(2050.78125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-fa" transform="translate(2109.375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-de" transform="translate(2167.96875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-176" transform="translate(2226.5625 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-de" transform="translate(2285.15625 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-fa" transform="translate(2343.75 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-12b" transform="translate(2402.34375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-187" transform="translate(2460.9375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-1aa" transform="translate(2519.53125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-2df" transform="translate(2578.125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-35d" transform="translate(2636.71875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-100" transform="translate(2695.3125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-12b" transform="translate(2753.90625 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-179" transform="translate(2812.5 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-104" transform="translate(2871.09375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-fa" transform="translate(2929.6875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-187" transform="translate(2988.28125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-35d" transform="translate(3046.875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-fa" transform="translate(3105.46875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-159" transform="translate(3164.0625 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-150" transform="translate(3222.65625 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-17e" transform="translate(3281.25 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-187" transform="translate(3339.84375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-179" transform="translate(3398.4375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-18d" transform="translate(3457.03125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-fa" transform="translate(3515.625 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-187" transform="translate(3574.21875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-159" transform="translate(3632.8125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-179" transform="translate(3691.40625 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-2e1" transform="translate(3750 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-35d" transform="translate(3808.59375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-150" transform="translate(3867.1875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-159" transform="translate(3925.78125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-35d" transform="translate(3984.375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-12b" transform="translate(4042.96875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-150" transform="translate(4101.5625 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-2fd" transform="translate(4160.15625 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-176" transform="translate(4218.75 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-143" transform="translate(4277.34375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-de" transform="translate(4335.9375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-fa" transform="translate(4394.53125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-104" transform="translate(4453.125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-35d" transform="translate(4511.71875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-179" transform="translate(4570.3125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-159" transform="translate(4628.90625 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-18d" transform="translate(4687.5 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-187" transform="translate(4746.09375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-12b" transform="translate(4804.6875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-150" transform="translate(4863.28125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-11c" transform="translate(4921.875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-35d" transform="translate(4980.46875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-176" transform="translate(5039.0625 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-de" transform="translate(5097.65625 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-187" transform="translate(5156.25 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-fa" transform="translate(5214.84375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-126" transform="translate(5273.4375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-2de" transform="translate(5332.03125 0)"/>
+    </g>
+   </g>
+   <g id="text_89">
+    <!-- MEASURED RESULTS ONLY  /  C = concurrent requests  /  No long-context decode matrix measured. -->
+    <g style="fill: #9cabb3" transform="translate(34.56 1055.733477) scale(0.11 -0.11)">
+     <defs>
+      <path id="CascadiaMono-Roman-c8" d="M 1609 1481
+L 78 4438
+L 766 4438
+L 1847 2219
+L 1903 2219
+L 2984 4438
+L 3672 4438
+L 2141 1481
+L 1609 1481
+z
+M 1563 0
+L 1563 2188
+L 2188 2188
+L 2188 0
+L 1563 0
+z
+" transform="scale(0.015625)"/>
+     </defs>
+     <use xlink:href="#CascadiaMono-Roman-6c"/>
+     <use xlink:href="#CascadiaMono-Roman-29" transform="translate(58.59375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-1" transform="translate(117.1875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-9a" transform="translate(175.78125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-aa" transform="translate(234.375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-95" transform="translate(292.96875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-29" transform="translate(351.5625 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-25" transform="translate(410.15625 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-35d" transform="translate(468.75 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-95" transform="translate(527.34375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-29" transform="translate(585.9375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-9a" transform="translate(644.53125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-aa" transform="translate(703.125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-62" transform="translate(761.71875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-a3" transform="translate(820.3125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-9a" transform="translate(878.90625 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-35d" transform="translate(937.5 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-75" transform="translate(996.09375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-6d" transform="translate(1054.6875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-62" transform="translate(1113.28125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-c8" transform="translate(1171.875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-35d" transform="translate(1230.46875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-35d" transform="translate(1289.0625 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-2ee" transform="translate(1347.65625 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-35d" transform="translate(1406.25 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-35d" transform="translate(1464.84375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-1e" transform="translate(1523.4375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-35d" transform="translate(1582.03125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-38b" transform="translate(1640.625 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-35d" transform="translate(1699.21875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-fa" transform="translate(1757.8125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-159" transform="translate(1816.40625 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-150" transform="translate(1875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-fa" transform="translate(1933.59375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-18d" transform="translate(1992.1875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-179" transform="translate(2050.78125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-179" transform="translate(2109.375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-104" transform="translate(2167.96875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-150" transform="translate(2226.5625 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-187" transform="translate(2285.15625 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-35d" transform="translate(2343.75 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-179" transform="translate(2402.34375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-104" transform="translate(2460.9375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-178" transform="translate(2519.53125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-18d" transform="translate(2578.125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-104" transform="translate(2636.71875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-17e" transform="translate(2695.3125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-187" transform="translate(2753.90625 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-17e" transform="translate(2812.5 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-35d" transform="translate(2871.09375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-35d" transform="translate(2929.6875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-2ee" transform="translate(2988.28125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-35d" transform="translate(3046.875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-35d" transform="translate(3105.46875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-6d" transform="translate(3164.0625 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-159" transform="translate(3222.65625 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-35d" transform="translate(3281.25 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-143" transform="translate(3339.84375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-159" transform="translate(3398.4375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-150" transform="translate(3457.03125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-11c" transform="translate(3515.625 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-2fd" transform="translate(3574.21875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-fa" transform="translate(3632.8125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-159" transform="translate(3691.40625 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-150" transform="translate(3750 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-187" transform="translate(3808.59375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-104" transform="translate(3867.1875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-1a9" transform="translate(3925.78125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-187" transform="translate(3984.375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-35d" transform="translate(4042.96875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-100" transform="translate(4101.5625 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-104" transform="translate(4160.15625 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-fa" transform="translate(4218.75 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-159" transform="translate(4277.34375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-100" transform="translate(4335.9375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-104" transform="translate(4394.53125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-35d" transform="translate(4453.125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-14f" transform="translate(4511.71875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-de" transform="translate(4570.3125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-187" transform="translate(4628.90625 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-179" transform="translate(4687.5 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-12b" transform="translate(4746.09375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-1a9" transform="translate(4804.6875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-35d" transform="translate(4863.28125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-14f" transform="translate(4921.875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-104" transform="translate(4980.46875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-de" transform="translate(5039.0625 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-17e" transform="translate(5097.65625 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-18d" transform="translate(5156.25 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-179" transform="translate(5214.84375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-104" transform="translate(5273.4375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-100" transform="translate(5332.03125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-2de" transform="translate(5390.625 0)"/>
+    </g>
+   </g>
+   <g id="text_90">
+    <!-- KMOBS-1 + KMOBS-2  //  2026-10-19 -->
+    <g style="fill: #62e5ef" transform="translate(34.56 1077.333477) scale(0.11 -0.11)">
+     <use xlink:href="#CascadiaMono-Roman-5d"/>
+     <use xlink:href="#CascadiaMono-Roman-6c" transform="translate(58.59375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-75" transform="translate(117.1875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-1d" transform="translate(175.78125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-9a" transform="translate(234.375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-2fd" transform="translate(292.96875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-2a4" transform="translate(351.5625 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-35d" transform="translate(410.15625 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-387" transform="translate(468.75 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-35d" transform="translate(527.34375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-5d" transform="translate(585.9375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-6c" transform="translate(644.53125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-75" transform="translate(703.125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-1d" transform="translate(761.71875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-9a" transform="translate(820.3125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-2fd" transform="translate(878.90625 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-2a5" transform="translate(937.5 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-35d" transform="translate(996.09375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-35d" transform="translate(1054.6875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-2ee" transform="translate(1113.28125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-2ee" transform="translate(1171.875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-35d" transform="translate(1230.46875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-35d" transform="translate(1289.0625 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-2a5" transform="translate(1347.65625 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-2a3" transform="translate(1406.25 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-2a5" transform="translate(1464.84375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-2a9" transform="translate(1523.4375 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-2fd" transform="translate(1582.03125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-2a4" transform="translate(1640.625 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-2a3" transform="translate(1699.21875 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-2fd" transform="translate(1757.8125 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-2a4" transform="translate(1816.40625 0)"/>
+     <use xlink:href="#CascadiaMono-Roman-2ac" transform="translate(1875 0)"/>
+    </g>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="pbc166b3140">
+   <rect x="0" y="0" width="1152" height="1086.48"/>
+  </clipPath>
+ </defs>
+</svg>

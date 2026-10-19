@@ -1,0 +1,6 @@
+.env
+.env.*
+!.env.*.example
+.build/
+__pycache__/
+*.tar

@@ -1,0 +1,18 @@
+#!/usr/bin/env python3
+"""Bound compilation parallelism without editing pinned source trees."""
+import os
+import sys
+
+args = sys.argv[1:]
+if args[:2] == ["buildx", "build"]:
+    limits = {"MAX_JOBS": "8", "BUILD_JOBS": "8", "NVCC_THREADS": "1"}
+    # vLLM's pinned Dockerfile sets NVCC_THREADS=4; setup.py divides
+    # BUILD_JOBS by that value. 32 therefore means eight compiler jobs.
+    if any("/tools/jovian_wheel_release/Dockerfile" in arg for arg in args):
+        limits["BUILD_JOBS"] = "32"
+    for i in range(1, len(args)):
+        if args[i - 1] == "--build-arg" and "=" in args[i]:
+            name = args[i].split("=", 1)[0]
+            if name in limits:
+                args[i] = name + "=" + limits[name]
+os.execv("/usr/bin/docker", ["docker", *args])

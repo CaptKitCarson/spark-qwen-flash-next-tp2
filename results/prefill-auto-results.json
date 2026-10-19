@@ -1,0 +1,55 @@
+{
+  "label": "auto",
+  "rows": [
+    {
+      "tokens": 8192,
+      "samples": [
+        {
+          "tokens": 8192,
+          "ttft_s": 2.620597935980186,
+          "effective_prefill_tok_s": 3126.004141087723,
+          "cached_tokens": 0
+        },
+        {
+          "tokens": 8192,
+          "ttft_s": 2.608683323021978,
+          "effective_prefill_tok_s": 3140.281508186336,
+          "cached_tokens": 0
+        },
+        {
+          "tokens": 8192,
+          "ttft_s": 2.6268130580428988,
+          "effective_prefill_tok_s": 3118.6079172696936,
+          "cached_tokens": 0
+        }
+      ],
+      "ttft_s": 2.620597935980186,
+      "effective_prefill_tok_s": 3126.004141087723
+    },
+    {
+      "tokens": 32768,
+      "samples": [
+        {
+          "tokens": 32768,
+          "ttft_s": 11.086327165015973,
+          "effective_prefill_tok_s": 2955.7128805834577,
+          "cached_tokens": 0
+        },
+        {
+          "tokens": 32768,
+          "ttft_s": 10.992784704081714,
+          "effective_prefill_tok_s": 2980.864347123342,
+          "cached_tokens": 0
+        },
+        {
+          "tokens": 32768,
+          "ttft_s": 10.99535143096,
+          "effective_prefill_tok_s": 2980.1685017301024,
+          "cached_tokens": 0
+        }
+      ],
+      "ttft_s": 10.99535143096,
+      "effective_prefill_tok_s": 2980.1685017301024
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "alias": "ghcr.io/local-inference-lab/vllm:karmic-kraken-beta-spark",
+  "amd64_image": "ghcr.io/local-inference-lab/vllm:karmic-kraken-beta-20261016.2",
+  "assembly_sha256": "08edd314f7ee880c5cc29eb4692afc2aa7a2c51736c188335b655cdbf5ed6eea",
+  "built": "2026-10-19T03:33:11+00:00",
+  "components": {
+    "flashinfer": {
+      "built_from_commit": "79819b112f8bda7d09709c24bb31de16d7ce59c6",
+      "manifest_sha256": "0476583e1e22841ca630836f6d528761bbf969fe3b7549727c84c8b8e15379dd",
+      "repository": "local-inference-lab/flashinfer",
+      "source_commit": "79819b112f8bda7d09709c24bb31de16d7ce59c6"
+    },
+    "instanttensor": {
+      "built_from_commit": "747390dc2bd1e0a18b0c7b13a09a38594edf342f",
+      "manifest_sha256": "8db615cba61be925d52fddde0f447cc2d7a2dc6978786e540e7ac093513ed309",
+      "repository": "local-inference-lab/InstantTensor",
+      "source_commit": "747390dc2bd1e0a18b0c7b13a09a38594edf342f"
+    },
+    "lmcache": {
+      "built_from_commit": "8ef537d6481b0d7c93277118ffcc6bf7e68d1b22",
+      "manifest_sha256": "7e690cc74dfa3e42ebd3751145a99f5244a17d3bf7720ec8a37ef536439becc7",
+      "repository": "local-inference-lab/LMCache",
+      "source_commit": "8ef537d6481b0d7c93277118ffcc6bf7e68d1b22"
+    },
+    "nccl": {
+      "built_from_commit": "300f3a73caba7196e436571d9ac34069e81edea4",
+      "manifest_sha256": "69c94c7872f1d540905bf5ce0c533929a563d473b6148c2ae0ba8eb7a674d60d",
+      "repository": "local-inference-lab/nccl-canonical",
+      "source_commit": "300f3a73caba7196e436571d9ac34069e81edea4"
+    },
+    "vllm": {
+      "built_from_commit": "6d66eed35b0ab1cc0e05f00e83ef638ba10ae3db",
+      "manifest_sha256": "96b9ecd21bfe132b9612ae77224d8a385eb21e4179b2501cf2f43df9b5a6aade",
+      "repository": "local-inference-lab/vllm",
+      "source_commit": "6d66eed35b0ab1cc0e05f00e83ef638ba10ae3db"
+    }
+  },
+  "image": "ghcr.io/local-inference-lab/vllm:karmic-kraken-beta-spark-20261016.2",
+  "layers": 68,
+  "platform": "linux/arm64",
+  "recipe_commit": "3d1ccd84c34ff2de6ad79004464d11474df80cb1",
+  "release_tag": "karmic-kraken-beta-08edd314f7ee880c5cc29eb4692afc2aa7a2c51736c188335b655cdbf5ed6eea",
+  "schema": "local-inference-container-platform-release/v1",
+  "status": "research-only"
+}

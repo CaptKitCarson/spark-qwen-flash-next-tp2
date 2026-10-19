@@ -1,0 +1,55 @@
+{
+  "label": "roce2-fixed",
+  "rows": [
+    {
+      "tokens": 8192,
+      "samples": [
+        {
+          "tokens": 8192,
+          "ttft_s": 2.7682913040043786,
+          "effective_prefill_tok_s": 2959.226143632405,
+          "cached_tokens": 0
+        },
+        {
+          "tokens": 8192,
+          "ttft_s": 2.7522733910009265,
+          "effective_prefill_tok_s": 2976.448497734738,
+          "cached_tokens": 0
+        },
+        {
+          "tokens": 8192,
+          "ttft_s": 2.823498653015122,
+          "effective_prefill_tok_s": 2901.3649400016648,
+          "cached_tokens": 0
+        }
+      ],
+      "ttft_s": 2.7682913040043786,
+      "effective_prefill_tok_s": 2959.226143632405
+    },
+    {
+      "tokens": 32768,
+      "samples": [
+        {
+          "tokens": 32768,
+          "ttft_s": 11.062893130001612,
+          "effective_prefill_tok_s": 2961.9738358617974,
+          "cached_tokens": 0
+        },
+        {
+          "tokens": 32768,
+          "ttft_s": 11.017867984017357,
+          "effective_prefill_tok_s": 2974.0781108952865,
+          "cached_tokens": 0
+        },
+        {
+          "tokens": 32768,
+          "ttft_s": 11.005427895928733,
+          "effective_prefill_tok_s": 2977.4398878322536,
+          "cached_tokens": 0
+        }
+      ],
+      "ttft_s": 11.017867984017357,
+      "effective_prefill_tok_s": 2974.0781108952865
+    }
+  ]
+}
